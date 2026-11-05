@@ -822,9 +822,9 @@ def export_maclar_txt(maclar_path: str, master_store: dict[str, MasterEvent], no
     Format kesin olarak: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
     """
     temp_path = f"{maclar_path}.tmp"
-    cutoff = (now_tr - timedelta(days=1)).strftime("%Y-%m-%d")
+    cutoff = now_tr.strftime("%Y-%m-%d")
 
-    # Gelecek veya dünkü aktif karşılaşmalar (İptal edilenler hariç)
+    # Gelecek veya bugünkü aktif karşılaşmalar (İptal edilenler ve geçmiş hariç)
     active_events = [
         ev for ev in master_store.values()
         if ev.status != "CANCELLED" and ev.date_str >= cutoff
