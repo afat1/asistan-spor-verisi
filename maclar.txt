@@ -1,17 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 05.11.2026 17:59 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 05.11.2026 20:55 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 868
-04.11.2026 20:45 | Futbol | AEK Athene - Real Madrid [CL] | FB_2026_AEK_ATHENE_REAL_MADRID_CL | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 20:45 | Futbol | AEK Athene - Real Madrid [CL] (2-3) | FB_2026_AEK_ATHENE_REAL_MADRID_CL_2_3 | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 20:45 | Futbol | Fenerbahçe - Liverpool [CL] | FB_2026_FENERBAHCE_LIVERPOOL_CL | https://ics.fixtur.es/v2/fenerbahce.ics
-04.11.2026 20:45 | Futbol | Fenerbahçe - Liverpool [CL] (3-2) | FB_2026_FENERBAHCE_LIVERPOOL_CL_3_2 | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 23:00 | Futbol | Borussia Dortmund - Real Betis [CL] | FB_2026_BORUSSIA_DORTMUND_REAL_BETIS_CL | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 23:00 | Futbol | Borussia Dortmund - Real Betis [CL] (2-1) | FB_2026_BORUSSIA_DORTMUND_REAL_BETIS_CL_2_1 | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 23:00 | Futbol | FC Porto - Napoli [CL] (4-1) | FB_2026_FC_PORTO_NAPOLI_CL_4_1 | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 23:00 | Futbol | RB Leipzig - Manchester City [CL] | FB_2026_RB_LEIPZIG_MANCHESTER_CITY_CL | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 23:00 | Futbol | RB Leipzig - Manchester City [CL] (2-3) | FB_2026_RB_LEIPZIG_MANCHESTER_CITY_CL_2_3 | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 23:00 | Futbol | SK Slavia Praha - Arsenal [CL] | FB_2026_SK_SLAVIA_PRAHA_ARSENAL_CL | https://ics.fixtur.es/v2/league/champions-league.ics
-04.11.2026 23:00 | Futbol | SK Slavia Praha - Arsenal [CL] (1-2) | FB_2026_SK_SLAVIA_PRAHA_ARSENAL_CL_1_2 | https://ics.fixtur.es/v2/league/champions-league.ics
+# Toplam Etkinlik Sayisi: 857
 05.11.2026 03:00 | NBA | Detroit Pistons - Philadelphia 76ers | NBA_2026_DETROIT_PISTONS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 05.11.2026 03:30 | NBA | Boston Celtics - Milwaukee Bucks | NBA_2026_BOSTON_CELTICS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 05.11.2026 03:30 | NBA | New York Knicks - Chicago Bulls | NBA_2026_NEW_YORK_KNICKS_CHICAGO_BULLS | https://ics.fixtur.es/v2/league/nba.ics
