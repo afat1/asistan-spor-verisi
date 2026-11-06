@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 06.11.2026 07:57 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 06.11.2026 11:19 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 845
 06.11.2026 05:00 | NBA | Phoenix Suns - Orlando Magic | NBA_2026_PHOENIX_SUNS_ORLANDO_MAGIC | https://ics.fixtur.es/v2/league/nba.ics
