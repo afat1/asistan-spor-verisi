@@ -112,8 +112,8 @@
     "event_id": "NBA_2026_BOSTON_CELTICS_MILWAUKEE_BUCKS",
     "sport": "NBA",
     "title": "Boston Celtics - Milwaukee Bucks",
-    "date_str": "2026-11-05",
-    "time_str": "03:30",
+    "date_str": "2027-04-12",
+    "time_str": "01:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -121,9 +121,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-06T07:57:32.248365+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-06T07:57:32.248365+03:00: Tarih güncellendi: 2026-11-05 -> 2027-04-12",
+      "2026-11-06T07:57:32.248365+03:00: Başlama saati değişti: 03:30 -> 01:00"
     ]
   },
   "NBA_2026_NEW_YORK_KNICKS_CHICAGO_BULLS": {
@@ -166,8 +168,8 @@
     "event_id": "NBA_2026_HOUSTON_ROCKETS_MINNESOTA_TIMBERWOLVES",
     "sport": "NBA",
     "title": "Houston Rockets - Minnesota Timberwolves",
-    "date_str": "2026-11-05",
-    "time_str": "04:30",
+    "date_str": "2027-01-06",
+    "time_str": "04:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -175,17 +177,19 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-06T07:57:32.248365+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-06T07:57:32.248365+03:00: Tarih güncellendi: 2026-11-05 -> 2027-01-06",
+      "2026-11-06T07:57:32.248365+03:00: Başlama saati değişti: 04:30 -> 04:00"
     ]
   },
   "NBA_2026_PHOENIX_SUNS_PORTLAND_TRAIL_BLAZERS": {
     "event_id": "NBA_2026_PHOENIX_SUNS_PORTLAND_TRAIL_BLAZERS",
     "sport": "NBA",
     "title": "Phoenix Suns - Portland Trail Blazers",
-    "date_str": "2026-11-05",
-    "time_str": "05:00",
+    "date_str": "2027-03-22",
+    "time_str": "00:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -193,9 +197,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-06T07:57:32.248365+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-06T07:57:32.248365+03:00: Tarih güncellendi: 2026-11-05 -> 2027-03-22",
+      "2026-11-06T07:57:32.248365+03:00: Başlama saati değişti: 05:00 -> 00:00"
     ]
   },
   "NBA_2026_DENVER_NUGGETS_TORONTO_RAPTORS": {
@@ -220,7 +226,7 @@
     "event_id": "NBA_2026_SAN_ANTONIO_SPURS_DALLAS_MAVERICKS",
     "sport": "NBA",
     "title": "San Antonio Spurs - Dallas Mavericks",
-    "date_str": "2026-11-05",
+    "date_str": "2027-03-20",
     "time_str": "05:30",
     "has_time": true,
     "tournament": "",
@@ -229,16 +235,17 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-06T07:57:32.248365+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-06T07:57:32.248365+03:00: Tarih güncellendi: 2026-11-05 -> 2027-03-20"
     ]
   },
   "NBA_2026_SACRAMENTO_KINGS_LOS_ANGELES_LAKERS": {
     "event_id": "NBA_2026_SACRAMENTO_KINGS_LOS_ANGELES_LAKERS",
     "sport": "NBA",
     "title": "Sacramento Kings - Los Angeles Lakers",
-    "date_str": "2026-11-05",
+    "date_str": "2027-01-20",
     "time_str": "06:00",
     "has_time": true,
     "tournament": "",
@@ -247,9 +254,10 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-06T07:57:32.248365+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-06T07:57:32.248365+03:00: Tarih güncellendi: 2026-11-05 -> 2027-01-20"
     ]
   },
   "NBA_2026_LA_CLIPPERS_MIAMI_HEAT": {
@@ -15770,6 +15778,24 @@
     "last_updated": "2026-11-05T17:59:33.308739+03:00",
     "change_log": [
       "2026-11-05T17:59:33.308739+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/uefa-conference-league.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_KYOJI_HORIGUCHI_VS_ASU_ALMABAYEV": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_KYOJI_HORIGUCHI_VS_ASU_ALMABAYEV",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Prochazka vs Stirling - Kyoji Horiguchi vs Asu Almabayev",
+    "date_str": "2026-11-21",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "ABHA Arena, Doha, Qatar",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-06T07:57:32.248365+03:00",
+    "last_updated": "2026-11-06T07:57:32.248365+03:00",
+    "change_log": [
+      "2026-11-06T07:57:32.248365+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
     ]
   }
 }
