@@ -15797,5 +15797,77 @@
     "change_log": [
       "2026-11-06T07:57:32.248365+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
     ]
+  },
+  "FB_2026_CELTIC_BESIKTAS_EL_3_2": {
+    "event_id": "FB_2026_CELTIC_BESIKTAS_EL_3_2",
+    "sport": "Futbol",
+    "title": "Celtic - Beşiktaş [EL] (3-2)",
+    "date_str": "2026-11-05",
+    "time_str": "23:00",
+    "has_time": true,
+    "tournament": "Trendyol Süper Lig / Avrupa",
+    "session_or_stage": "",
+    "venue": "Celtic Park",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/besiktas.ics",
+    "first_seen": "2026-11-06T20:50:20.165456+03:00",
+    "last_updated": "2026-11-06T20:50:20.165456+03:00",
+    "change_log": [
+      "2026-11-06T20:50:20.165456+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/besiktas.ics)."
+    ]
+  },
+  "FB_2026_AZ_JUVENTUS_EL_1_2": {
+    "event_id": "FB_2026_AZ_JUVENTUS_EL_1_2",
+    "sport": "Futbol",
+    "title": "AZ - Juventus [EL] (1-2)",
+    "date_str": "2026-11-05",
+    "time_str": "23:00",
+    "has_time": true,
+    "tournament": "UEFA Avrupa Ligi",
+    "session_or_stage": "",
+    "venue": "AFAS Stadion, Stadionweg 1, Alkmaar",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/europa-league.ics",
+    "first_seen": "2026-11-06T20:50:20.165456+03:00",
+    "last_updated": "2026-11-06T20:50:20.165456+03:00",
+    "change_log": [
+      "2026-11-06T20:50:20.165456+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/europa-league.ics)."
+    ]
+  },
+  "FB_2026_BAYER_LEVERKUSEN_OLYMPIQUE_MARSEILLE_EL_0_1": {
+    "event_id": "FB_2026_BAYER_LEVERKUSEN_OLYMPIQUE_MARSEILLE_EL_0_1",
+    "sport": "Futbol",
+    "title": "Bayer Leverkusen - Olympique Marseille [EL] (0-1)",
+    "date_str": "2026-11-05",
+    "time_str": "23:00",
+    "has_time": true,
+    "tournament": "UEFA Avrupa Ligi",
+    "session_or_stage": "",
+    "venue": "BayArena",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/europa-league.ics",
+    "first_seen": "2026-11-06T20:50:20.165456+03:00",
+    "last_updated": "2026-11-06T20:50:20.165456+03:00",
+    "change_log": [
+      "2026-11-06T20:50:20.165456+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/europa-league.ics)."
+    ]
+  },
+  "FB_2026_BENFICA_LECH_POZNA_EL_3_1": {
+    "event_id": "FB_2026_BENFICA_LECH_POZNA_EL_3_1",
+    "sport": "Futbol",
+    "title": "Benfica - Lech Poznań [EL] (3-1)",
+    "date_str": "2026-11-05",
+    "time_str": "23:00",
+    "has_time": true,
+    "tournament": "UEFA Avrupa Ligi",
+    "session_or_stage": "",
+    "venue": "Estádio da Luz",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/europa-league.ics",
+    "first_seen": "2026-11-06T20:50:20.165456+03:00",
+    "last_updated": "2026-11-06T20:50:20.165456+03:00",
+    "change_log": [
+      "2026-11-06T20:50:20.165456+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/europa-league.ics)."
+    ]
   }
 }
