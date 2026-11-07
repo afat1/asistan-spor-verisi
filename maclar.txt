@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 07.11.2026 10:59 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 07.11.2026 13:42 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 840
 07.11.2026 03:30 | NBA | Cleveland Cavaliers - Philadelphia 76ers | NBA_2026_CLEVELAND_CAVALIERS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
