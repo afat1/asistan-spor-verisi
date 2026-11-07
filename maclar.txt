@@ -1,13 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 06.11.2026 20:50 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 07.11.2026 07:51 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 845
-06.11.2026 05:00 | NBA | Phoenix Suns - Orlando Magic | NBA_2026_PHOENIX_SUNS_ORLANDO_MAGIC | https://ics.fixtur.es/v2/league/nba.ics
-06.11.2026 06:00 | NBA | Golden State Warriors - Miami Heat | NBA_2026_GOLDEN_STATE_WARRIORS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
-06.11.2026 14:45 | MotoGP | MotoGP - [MotoGP] FP1 #QatarGP | MGP_2026_MOTOGP_FP1_QATARGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
-06.11.2026 18:30 | Formula 1 | Formula 1 - Brazilian GP - 1. Antrenman | F1_2026_R20_FP1 | https://api.jolpi.ca/ergast/f1/2026.json
-06.11.2026 19:00 | MotoGP | MotoGP - [MotoGP] PR #QatarGP | MGP_2026_MOTOGP_PR_QATARGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
-06.11.2026 22:00 | Formula 1 | Formula 1 - Brazilian GP - 2. Antrenman | F1_2026_R20_FP2 | https://api.jolpi.ca/ergast/f1/2026.json
-07.11.2026 03:00 | NBA | Charlotte Hornets - Boston Celtics | NBA_2026_CHARLOTTE_HORNETS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 840
 07.11.2026 03:30 | NBA | Cleveland Cavaliers - Philadelphia 76ers | NBA_2026_CLEVELAND_CAVALIERS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 07.11.2026 04:00 | NBA | Dallas Mavericks - Utah Jazz | NBA_2026_DALLAS_MAVERICKS_UTAH_JAZZ | https://ics.fixtur.es/v2/league/nba.ics
 07.11.2026 04:00 | NBA | Memphis Grizzlies - Oklahoma City Thunder | NBA_2026_MEMPHIS_GRIZZLIES_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
@@ -21,6 +14,7 @@
 07.11.2026 19:00 | Futbol | Galatasaray - Amed | FB_2026_GALATASARAY_AMED | https://ics.fixtur.es/v2/galatasaray.ics
 07.11.2026 19:00 | MotoGP | MotoGP - [MotoGP] SPR #QatarGP | MGP_2026_MOTOGP_SPR_QATARGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
 07.11.2026 21:00 | Formula 1 | Formula 1 - Brazilian GP - Siralama Turlari | F1_2026_R20_QUALIFYING | https://api.jolpi.ca/ergast/f1/2026.json
+07.11.2026 00:00 | NBA | Charlotte Hornets - Boston Celtics (80-119) (Saat Belirsiz) | NBA_2026_CHARLOTTE_HORNETS_BOSTON_CELTICS_80_119 | https://ics.fixtur.es/v2/league/nba.ics
 08.11.2026 01:00 | NBA | Indiana Pacers - Denver Nuggets | NBA_2026_INDIANA_PACERS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
 08.11.2026 04:00 | NBA | Cleveland Cavaliers - New York Knicks | NBA_2026_CLEVELAND_CAVALIERS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
 08.11.2026 04:00 | NBA | Oklahoma City Thunder - Washington Wizards | NBA_2026_OKLAHOMA_CITY_THUNDER_WASHINGTON_WIZARDS | https://ics.fixtur.es/v2/league/nba.ics
@@ -581,6 +575,7 @@
 04.02.2027 04:00 | NBA | Memphis Grizzlies - Philadelphia 76ers | NBA_2026_MEMPHIS_GRIZZLIES_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 04.02.2027 05:00 | NBA | Phoenix Suns - Cleveland Cavaliers | NBA_2026_PHOENIX_SUNS_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
 05.02.2027 03:30 | NBA | Brooklyn Nets - Los Angeles Lakers | NBA_2026_BROOKLYN_NETS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
+05.02.2027 03:30 | NBA | Charlotte Hornets - Boston Celtics | NBA_2026_CHARLOTTE_HORNETS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
 05.02.2027 04:00 | NBA | Chicago Bulls - Oklahoma City Thunder | NBA_2026_CHICAGO_BULLS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
 05.02.2027 06:00 | NBA | Portland Trail Blazers - Cleveland Cavaliers | NBA_2026_PORTLAND_TRAIL_BLAZERS_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
 06.02.2027 03:00 | NBA | Atlanta Hawks - Boston Celtics | NBA_2026_ATLANTA_HAWKS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics

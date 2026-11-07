@@ -508,8 +508,8 @@
     "event_id": "NBA_2026_CHARLOTTE_HORNETS_BOSTON_CELTICS",
     "sport": "NBA",
     "title": "Charlotte Hornets - Boston Celtics",
-    "date_str": "2026-11-07",
-    "time_str": "03:00",
+    "date_str": "2027-02-05",
+    "time_str": "03:30",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -517,9 +517,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-07T07:51:56.802365+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-07T07:51:56.802365+03:00: Tarih güncellendi: 2026-11-07 -> 2027-02-05",
+      "2026-11-07T07:51:56.802365+03:00: Başlama saati değişti: 03:00 -> 03:30"
     ]
   },
   "NBA_2026_CLEVELAND_CAVALIERS_PHILADELPHIA_76ERS": {
@@ -15868,6 +15870,24 @@
     "last_updated": "2026-11-06T20:50:20.165456+03:00",
     "change_log": [
       "2026-11-06T20:50:20.165456+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/europa-league.ics)."
+    ]
+  },
+  "NBA_2026_CHARLOTTE_HORNETS_BOSTON_CELTICS_80_119": {
+    "event_id": "NBA_2026_CHARLOTTE_HORNETS_BOSTON_CELTICS_80_119",
+    "sport": "NBA",
+    "title": "Charlotte Hornets - Boston Celtics (80-119)",
+    "date_str": "2026-11-07",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-07T07:51:56.802365+03:00",
+    "last_updated": "2026-11-07T07:51:56.802365+03:00",
+    "change_log": [
+      "2026-11-07T07:51:56.802365+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
     ]
   }
 }
