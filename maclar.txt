@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 08.11.2026 13:44 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 08.11.2026 16:50 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 831
 08.11.2026 01:00 | NBA | Indiana Pacers - Denver Nuggets | NBA_2026_INDIANA_PACERS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
