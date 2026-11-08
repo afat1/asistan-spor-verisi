@@ -15916,5 +15916,23 @@
     "change_log": [
       "2026-11-08T07:53:52.440824+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
     ]
+  },
+  "FB_2026_GALATASARAY_AMED_4_3": {
+    "event_id": "FB_2026_GALATASARAY_AMED_4_3",
+    "sport": "Futbol",
+    "title": "Galatasaray - Amed (4-3)",
+    "date_str": "2026-11-07",
+    "time_str": "19:00",
+    "has_time": true,
+    "tournament": "Trendyol Süper Lig / Avrupa",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/galatasaray.ics",
+    "first_seen": "2026-11-08T11:00:30.506813+03:00",
+    "last_updated": "2026-11-08T11:00:30.506813+03:00",
+    "change_log": [
+      "2026-11-08T11:00:30.506813+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/galatasaray.ics)."
+    ]
   }
 }
