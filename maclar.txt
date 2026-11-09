@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 09.11.2026 17:21 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 09.11.2026 20:57 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 817
 09.11.2026 02:00 | NBA | Detroit Pistons - Los Angeles Lakers | NBA_2026_DETROIT_PISTONS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
