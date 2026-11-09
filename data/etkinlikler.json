@@ -3663,14 +3663,15 @@
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
-    "venue": "Vasil Levski National",
+    "venue": "Balgarska Armia",
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/trabzonspor.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-09T17:21:21.588401+03:00",
     "change_log": [
       "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
-      "2026-11-05T17:59:33.308739+03:00: Mekân eklendi: Vasil Levski National"
+      "2026-11-05T17:59:33.308739+03:00: Mekân eklendi: Vasil Levski National",
+      "2026-11-09T17:21:21.588401+03:00: Mekân güncellendi: Vasil Levski National -> Balgarska Armia"
     ]
   },
   "FB_2026_INTER_CLUB_D_ESCALDES_FC_KOPENHAGEN_CONF": {
@@ -15993,6 +15994,42 @@
     "last_updated": "2026-11-09T11:28:26.248242+03:00",
     "change_log": [
       "2026-11-09T11:28:26.248242+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "FB_2026_BESIKTAS_GENCLERBIRLIGI_3_0": {
+    "event_id": "FB_2026_BESIKTAS_GENCLERBIRLIGI_3_0",
+    "sport": "Futbol",
+    "title": "Beşiktaş - Genclerbirligi (3-0)",
+    "date_str": "2026-11-08",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "Trendyol Süper Lig / Avrupa",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/besiktas.ics",
+    "first_seen": "2026-11-09T17:21:21.588401+03:00",
+    "last_updated": "2026-11-09T17:21:21.588401+03:00",
+    "change_log": [
+      "2026-11-09T17:21:21.588401+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/besiktas.ics)."
+    ]
+  },
+  "FB_2026_ALANYASPOR_TRABZONSPOR_0_2": {
+    "event_id": "FB_2026_ALANYASPOR_TRABZONSPOR_0_2",
+    "sport": "Futbol",
+    "title": "Alanyaspor - Trabzonspor (0-2)",
+    "date_str": "2026-11-08",
+    "time_str": "18:30",
+    "has_time": true,
+    "tournament": "Trendyol Süper Lig / Avrupa",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/trabzonspor.ics",
+    "first_seen": "2026-11-09T17:21:21.588401+03:00",
+    "last_updated": "2026-11-09T17:21:21.588401+03:00",
+    "change_log": [
+      "2026-11-09T17:21:21.588401+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/trabzonspor.ics)."
     ]
   }
 }
