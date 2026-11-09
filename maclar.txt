@@ -1,25 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 08.11.2026 20:37 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 09.11.2026 08:04 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 831
-08.11.2026 01:00 | NBA | Indiana Pacers - Denver Nuggets | NBA_2026_INDIANA_PACERS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
-08.11.2026 01:00 | NBA | Indiana Pacers - Denver Nuggets (102-114) | NBA_2026_INDIANA_PACERS_DENVER_NUGGETS_102_114 | https://ics.fixtur.es/v2/league/nba.ics
-08.11.2026 04:00 | NBA | Cleveland Cavaliers - New York Knicks | NBA_2026_CLEVELAND_CAVALIERS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
-08.11.2026 04:00 | NBA | Oklahoma City Thunder - Washington Wizards | NBA_2026_OKLAHOMA_CITY_THUNDER_WASHINGTON_WIZARDS | https://ics.fixtur.es/v2/league/nba.ics
-08.11.2026 04:00 | UFC | UFC Fight Night: Cortes Acosta vs Walker - Billy Elekana vs Lucas Fernando | UFC_UFC_FIGHT_NIGHT_CORTES_ACOSTA_VS_WALKER_BILLY_ELEKANA_VS_LUCAS_FERNANDO | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-08.11.2026 04:00 | UFC | UFC Fight Night: Cortes Acosta vs Walker - Davey Grant vs Elijah Smith | UFC_UFC_FIGHT_NIGHT_CORTES_ACOSTA_VS_WALKER_DAVEY_GRANT_VS_ELIJAH_SMITH | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-08.11.2026 04:00 | UFC | UFC Fight Night: Cortes Acosta vs Walker - Mitch Raposo vs Marcos Degli | UFC_UFC_FIGHT_NIGHT_CORTES_ACOSTA_VS_WALKER_MITCH_RAPOSO_VS_MARCOS_DEGLI | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-08.11.2026 04:00 | UFC | UFC Fight Night: Cortes Acosta vs Walker - Priscila Cachoeira vs Nina Milošević | UFC_UFC_FIGHT_NIGHT_CORTES_ACOSTA_VS_WALKER_PRISCILA_CACHOEIRA_VS_NINA_MILO_EVI | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-08.11.2026 04:00 | UFC | UFC Fight Night: Cortes Acosta vs Walker - Tatiana Suarez vs Virna Jandiroba | UFC_UFC_FIGHT_NIGHT_CORTES_ACOSTA_VS_WALKER_TATIANA_SUAREZ_VS_VIRNA_JANDIROBA | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-08.11.2026 04:00 | UFC | UFC Fight Night: Cortes Acosta vs Walker - Waldo Cortes Acosta vs Johnny Walker | UFC_UFC_FIGHT_NIGHT_CORTES_ACOSTA_VS_WALKER_WALDO_CORTES_ACOSTA_VS_JOHNNY_WALKER | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-08.11.2026 04:30 | NBA | Golden State Warriors - Orlando Magic | NBA_2026_GOLDEN_STATE_WARRIORS_ORLANDO_MAGIC | https://ics.fixtur.es/v2/league/nba.ics
-08.11.2026 05:00 | NBA | Phoenix Suns - Houston Rockets | NBA_2026_PHOENIX_SUNS_HOUSTON_ROCKETS | https://ics.fixtur.es/v2/league/nba.ics
-08.11.2026 14:40 | MotoGP | MotoGP - [MotoGP] WUP #QatarGP | MGP_2026_MOTOGP_WUP_QATARGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
-08.11.2026 16:00 | Futbol | Çorum - Fenerbahçe | FB_2026_CORUM_FENERBAHCE | https://ics.fixtur.es/v2/fenerbahce.ics
-08.11.2026 18:30 | Futbol | Alanyaspor - Trabzonspor | FB_2026_ALANYASPOR_TRABZONSPOR | https://ics.fixtur.es/v2/trabzonspor.ics
-08.11.2026 19:00 | MotoGP | MotoGP - [MotoGP] RAC #QatarGP | MGP_2026_MOTOGP_RAC_QATARGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
-08.11.2026 20:00 | Formula 1 | Formula 1 - Brazilian GP - Yaris | F1_2026_R20_RACE | https://api.jolpi.ca/ergast/f1/2026.json
-08.11.2026 21:00 | Futbol | Beşiktaş - Genclerbirligi | FB_2026_BESIKTAS_GENCLERBIRLIGI | https://ics.fixtur.es/v2/besiktas.ics
-08.11.2026 23:30 | NBA | Chicago Bulls - Philadelphia 76ers | NBA_2026_CHICAGO_BULLS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 814
 09.11.2026 02:00 | NBA | Detroit Pistons - Los Angeles Lakers | NBA_2026_DETROIT_PISTONS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
 09.11.2026 03:00 | NBA | Minnesota Timberwolves - Utah Jazz | NBA_2026_MINNESOTA_TIMBERWOLVES_UTAH_JAZZ | https://ics.fixtur.es/v2/league/nba.ics
 09.11.2026 03:30 | NBA | Dallas Mavericks - Brooklyn Nets | NBA_2026_DALLAS_MAVERICKS_BROOKLYN_NETS | https://ics.fixtur.es/v2/league/nba.ics
@@ -304,6 +285,7 @@
 21.12.2026 20:00 | Futbol | Trabzonspor - Kocaelispor | FB_2026_TRABZONSPOR_KOCAELISPOR | https://ics.fixtur.es/v2/trabzonspor.ics
 22.12.2026 03:00 | NBA | Charlotte Hornets - Philadelphia 76ers | NBA_2026_CHARLOTTE_HORNETS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 22.12.2026 03:30 | NBA | Miami Heat - Chicago Bulls | NBA_2026_MIAMI_HEAT_CHICAGO_BULLS | https://ics.fixtur.es/v2/league/nba.ics
+22.12.2026 04:00 | NBA | Cleveland Cavaliers - New York Knicks | NBA_2026_CLEVELAND_CAVALIERS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
 22.12.2026 04:00 | NBA | Minnesota Timberwolves - Phoenix Suns | NBA_2026_MINNESOTA_TIMBERWOLVES_PHOENIX_SUNS | https://ics.fixtur.es/v2/league/nba.ics
 22.12.2026 04:00 | NBA | San Antonio Spurs - Milwaukee Bucks | NBA_2026_SAN_ANTONIO_SPURS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 22.12.2026 06:00 | NBA | Los Angeles Lakers - Indiana Pacers | NBA_2026_LOS_ANGELES_LAKERS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -569,6 +551,7 @@
 06.02.2027 03:00 | NBA | Charlotte Hornets - Golden State Warriors | NBA_2026_CHARLOTTE_HORNETS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
 06.02.2027 03:00 | NBA | Philadelphia 76ers - Detroit Pistons | NBA_2026_PHILADELPHIA_76ERS_DETROIT_PISTONS | https://ics.fixtur.es/v2/league/nba.ics
 06.02.2027 05:00 | NBA | Denver Nuggets - LA Clippers | NBA_2026_DENVER_NUGGETS_LA_CLIPPERS | https://ics.fixtur.es/v2/league/nba.ics
+06.02.2027 05:00 | NBA | Phoenix Suns - Houston Rockets | NBA_2026_PHOENIX_SUNS_HOUSTON_ROCKETS | https://ics.fixtur.es/v2/league/nba.ics
 06.02.2027 05:30 | NBA | Oklahoma City Thunder - Indiana Pacers | NBA_2026_OKLAHOMA_CITY_THUNDER_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
 06.02.2027 23:00 | NBA | Dallas Mavericks - Utah Jazz | NBA_2026_DALLAS_MAVERICKS_UTAH_JAZZ | https://ics.fixtur.es/v2/league/nba.ics
 06.02.2027 23:00 | NBA | Minnesota Timberwolves - Miami Heat | NBA_2026_MINNESOTA_TIMBERWOLVES_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics

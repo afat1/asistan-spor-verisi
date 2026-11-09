@@ -791,7 +791,7 @@
     "event_id": "NBA_2026_CLEVELAND_CAVALIERS_NEW_YORK_KNICKS",
     "sport": "NBA",
     "title": "Cleveland Cavaliers - New York Knicks",
-    "date_str": "2026-11-08",
+    "date_str": "2026-12-22",
     "time_str": "04:00",
     "has_time": true,
     "tournament": "",
@@ -800,9 +800,10 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-09T08:04:56.818838+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-09T08:04:56.818838+03:00: Tarih güncellendi: 2026-11-08 -> 2026-12-22"
     ]
   },
   "UFC_UFC_FIGHT_NIGHT_CORTES_ACOSTA_VS_WALKER_MITCH_RAPOSO_VS_MARCOS_DEGLI": {
@@ -959,7 +960,7 @@
     "event_id": "NBA_2026_PHOENIX_SUNS_HOUSTON_ROCKETS",
     "sport": "NBA",
     "title": "Phoenix Suns - Houston Rockets",
-    "date_str": "2026-11-08",
+    "date_str": "2027-02-06",
     "time_str": "05:00",
     "has_time": true,
     "tournament": "",
@@ -968,9 +969,10 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-09T08:04:56.818838+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-09T08:04:56.818838+03:00: Tarih güncellendi: 2026-11-08 -> 2027-02-06"
     ]
   },
   "MGP_2026_MOTOGP_WUP_QATARGP": {
