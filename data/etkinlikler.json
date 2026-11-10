@@ -1202,8 +1202,8 @@
     "event_id": "NBA_2026_LA_CLIPPERS_NEW_ORLEANS_PELICANS",
     "sport": "NBA",
     "title": "LA Clippers - New Orleans Pelicans",
-    "date_str": "2026-11-09",
-    "time_str": "05:00",
+    "date_str": "2026-11-28",
+    "time_str": "05:30",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -1211,9 +1211,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-10T07:53:41.672866+03:00: Tarih güncellendi: 2026-11-09 -> 2026-11-28",
+      "2026-11-10T07:53:41.672866+03:00: Başlama saati değişti: 05:00 -> 05:30"
     ]
   },
   "NBA_2026_CHARLOTTE_HORNETS_CLEVELAND_CAVALIERS": {
@@ -16030,6 +16032,222 @@
     "last_updated": "2026-11-09T17:21:21.588401+03:00",
     "change_log": [
       "2026-11-09T17:21:21.588401+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/trabzonspor.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_ISRAEL_ADESANYA_VS_SHARA_MAGOMEDOV": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_ISRAEL_ADESANYA_VS_SHARA_MAGOMEDOV",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Israel Adesanya vs Shara Magomedov",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_IAN_MACHADO_GARRY_VS_YAROSLAV_AMOSOV": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_IAN_MACHADO_GARRY_VS_YAROSLAV_AMOSOV",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Ian Machado Garry vs Yaroslav Amosov",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_SERGHEI_SPIVAC_VS_MARIO_PINTO": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_SERGHEI_SPIVAC_VS_MARIO_PINTO",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Serghei Spivac vs Mario Pinto",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_LEVAN_CHOKHELI_VS_ISLAM_DULATOV": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_LEVAN_CHOKHELI_VS_ISLAM_DULATOV",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Levan Chokheli vs Islam Dulatov",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MAIRON_SANTOS_VS_AKBAR_ABDULLAEV": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MAIRON_SANTOS_VS_AKBAR_ABDULLAEV",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Mairon Santos vs Akbar Abdullaev",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MAGOMED_TUCHALOV_VS_ION_CUTELABA": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MAGOMED_TUCHALOV_VS_ION_CUTELABA",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Magomed Tuchalov vs Ion Cutelaba",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_BRUNO_SILVA_VS_JAFEL_FILHO": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_BRUNO_SILVA_VS_JAFEL_FILHO",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Bruno Silva vs Jafel Filho",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_URAN_SATYBALDIEV_VS_IVAN_GNIZDITSKIY": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_URAN_SATYBALDIEV_VS_IVAN_GNIZDITSKIY",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Uran Satybaldiev vs Ivan Gnizditskiy",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MARCO_TULIO_VS_JUNYONG_PARK": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MARCO_TULIO_VS_JUNYONG_PARK",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Marco Tulio vs JunYong Park",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_PAVEL_ANDRUSCA_VS_MAHAMMADALI_OSMANLI": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_PAVEL_ANDRUSCA_VS_MAHAMMADALI_OSMANLI",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Pavel Andrusca vs Mahammadali Osmanli",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MODESTINO_RODRIGUES_VS_MATTHIEU_DUCLOS": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MODESTINO_RODRIGUES_VS_MATTHIEU_DUCLOS",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Modestino Rodrigues vs Matthieu Duclos",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_ABDUL_HUSSEIN_VS_HECHER_SOSA": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_ABDUL_HUSSEIN_VS_HECHER_SOSA",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Adesanya vs Magomedov - Abdul Hussein vs Hecher Sosa",
+    "date_str": "2026-12-05",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "The Venue, Riyadh, Saudi Arabia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-10T07:53:41.672866+03:00",
+    "last_updated": "2026-11-10T07:53:41.672866+03:00",
+    "change_log": [
+      "2026-11-10T07:53:41.672866+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
     ]
   }
 }

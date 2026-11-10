@@ -1,13 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 09.11.2026 20:57 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 10.11.2026 07:53 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 817
-09.11.2026 02:00 | NBA | Detroit Pistons - Los Angeles Lakers | NBA_2026_DETROIT_PISTONS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
-09.11.2026 02:00 | NBA | Detroit Pistons - Los Angeles Lakers (116-121) | NBA_2026_DETROIT_PISTONS_LOS_ANGELES_LAKERS_116_121 | https://ics.fixtur.es/v2/league/nba.ics
-09.11.2026 03:30 | NBA | Dallas Mavericks - Brooklyn Nets | NBA_2026_DALLAS_MAVERICKS_BROOKLYN_NETS | https://ics.fixtur.es/v2/league/nba.ics
-09.11.2026 04:00 | NBA | Milwaukee Bucks - Boston Celtics | NBA_2026_MILWAUKEE_BUCKS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
-09.11.2026 05:00 | NBA | LA Clippers - New Orleans Pelicans | NBA_2026_LA_CLIPPERS_NEW_ORLEANS_PELICANS | https://ics.fixtur.es/v2/league/nba.ics
-09.11.2026 05:00 | NBA | Sacramento Kings - Miami Heat | NBA_2026_SACRAMENTO_KINGS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
-09.11.2026 00:00 | NBA | Minnesota Timberwolves - Utah Jazz (115-100) (Saat Belirsiz) | NBA_2026_MINNESOTA_TIMBERWOLVES_UTAH_JAZZ_115_100 | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 823
 10.11.2026 03:00 | NBA | Atlanta Hawks - Los Angeles Lakers | NBA_2026_ATLANTA_HAWKS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
 10.11.2026 03:00 | NBA | Charlotte Hornets - Cleveland Cavaliers | NBA_2026_CHARLOTTE_HORNETS_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
 10.11.2026 04:00 | NBA | Dallas Mavericks - Indiana Pacers | NBA_2026_DALLAS_MAVERICKS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -157,6 +150,7 @@
 28.11.2026 03:30 | NBA | Indiana Pacers - Philadelphia 76ers | NBA_2026_INDIANA_PACERS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 28.11.2026 04:00 | NBA | Boston Celtics - Atlanta Hawks | NBA_2026_BOSTON_CELTICS_ATLANTA_HAWKS | https://ics.fixtur.es/v2/league/nba.ics
 28.11.2026 05:00 | NBA | Phoenix Suns - Dallas Mavericks | NBA_2026_PHOENIX_SUNS_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
+28.11.2026 05:30 | NBA | LA Clippers - New Orleans Pelicans | NBA_2026_LA_CLIPPERS_NEW_ORLEANS_PELICANS | https://ics.fixtur.es/v2/league/nba.ics
 28.11.2026 05:30 | NBA | Portland Trail Blazers - Golden State Warriors | NBA_2026_PORTLAND_TRAIL_BLAZERS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
 28.11.2026 05:30 | NBA | San Antonio Spurs - Los Angeles Lakers | NBA_2026_SAN_ANTONIO_SPURS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
 28.11.2026 05:30 | NBA | Utah Jazz - Denver Nuggets | NBA_2026_UTAH_JAZZ_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
@@ -206,6 +200,18 @@
 05.12.2026 13:30 | Formula 1 | Formula 1 - Abu Dhabi GP - 3. Antrenman | F1_2026_R23_FP3 | https://api.jolpi.ca/ergast/f1/2026.json
 05.12.2026 17:00 | Formula 1 | Formula 1 - Abu Dhabi GP - Siralama Turlari | F1_2026_R23_QUALIFYING | https://api.jolpi.ca/ergast/f1/2026.json
 05.12.2026 19:00 | Futbol | Başakşehir - Fenerbahçe | FB_2026_BASAKSEHIR_FENERBAHCE | https://ics.fixtur.es/v2/fenerbahce.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Abdul Hussein vs Hecher Sosa | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_ABDUL_HUSSEIN_VS_HECHER_SOSA | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Bruno Silva vs Jafel Filho | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_BRUNO_SILVA_VS_JAFEL_FILHO | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Ian Machado Garry vs Yaroslav Amosov | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_IAN_MACHADO_GARRY_VS_YAROSLAV_AMOSOV | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Israel Adesanya vs Shara Magomedov | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_ISRAEL_ADESANYA_VS_SHARA_MAGOMEDOV | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Levan Chokheli vs Islam Dulatov | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_LEVAN_CHOKHELI_VS_ISLAM_DULATOV | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Magomed Tuchalov vs Ion Cutelaba | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MAGOMED_TUCHALOV_VS_ION_CUTELABA | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Mairon Santos vs Akbar Abdullaev | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MAIRON_SANTOS_VS_AKBAR_ABDULLAEV | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Marco Tulio vs JunYong Park | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MARCO_TULIO_VS_JUNYONG_PARK | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Modestino Rodrigues vs Matthieu Duclos | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_MODESTINO_RODRIGUES_VS_MATTHIEU_DUCLOS | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Pavel Andrusca vs Mahammadali Osmanli | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_PAVEL_ANDRUSCA_VS_MAHAMMADALI_OSMANLI | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Serghei Spivac vs Mario Pinto | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_SERGHEI_SPIVAC_VS_MARIO_PINTO | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+05.12.2026 21:00 | UFC | UFC Fight Night: Adesanya vs Magomedov - Uran Satybaldiev vs Ivan Gnizditskiy | UFC_UFC_FIGHT_NIGHT_ADESANYA_VS_MAGOMEDOV_URAN_SATYBALDIEV_VS_IVAN_GNIZDITSKIY | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
 06.12.2026 16:00 | Formula 1 | Formula 1 - Abu Dhabi GP - Yaris | F1_2026_R23_RACE | https://api.jolpi.ca/ergast/f1/2026.json
 06.12.2026 16:00 | Futbol | Beşiktaş - Samsunspor | FB_2026_BESIKTAS_SAMSUNSPOR | https://ics.fixtur.es/v2/besiktas.ics
 06.12.2026 19:00 | Futbol | Trabzonspor - Çorum | FB_2026_TRABZONSPOR_CORUM | https://ics.fixtur.es/v2/trabzonspor.ics
