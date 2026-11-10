@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 10.11.2026 17:12 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 10.11.2026 20:49 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 825
 10.11.2026 03:00 | NBA | Atlanta Hawks - Los Angeles Lakers | NBA_2026_ATLANTA_HAWKS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
