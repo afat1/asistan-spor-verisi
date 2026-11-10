@@ -1,12 +1,13 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 10.11.2026 07:53 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 10.11.2026 11:17 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 823
+# Toplam Etkinlik Sayisi: 825
 10.11.2026 03:00 | NBA | Atlanta Hawks - Los Angeles Lakers | NBA_2026_ATLANTA_HAWKS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
-10.11.2026 03:00 | NBA | Charlotte Hornets - Cleveland Cavaliers | NBA_2026_CHARLOTTE_HORNETS_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
 10.11.2026 04:00 | NBA | Dallas Mavericks - Indiana Pacers | NBA_2026_DALLAS_MAVERICKS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
 10.11.2026 04:30 | NBA | Houston Rockets - Denver Nuggets | NBA_2026_HOUSTON_ROCKETS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
 10.11.2026 05:00 | NBA | Phoenix Suns - San Antonio Spurs | NBA_2026_PHOENIX_SUNS_SAN_ANTONIO_SPURS | https://ics.fixtur.es/v2/league/nba.ics
 10.11.2026 06:00 | NBA | Golden State Warriors - New Orleans Pelicans | NBA_2026_GOLDEN_STATE_WARRIORS_NEW_ORLEANS_PELICANS | https://ics.fixtur.es/v2/league/nba.ics
+10.11.2026 00:00 | NBA | Atlanta Hawks - Los Angeles Lakers (114-124) (Saat Belirsiz) | NBA_2026_ATLANTA_HAWKS_LOS_ANGELES_LAKERS_114_124 | https://ics.fixtur.es/v2/league/nba.ics
+10.11.2026 00:00 | NBA | Charlotte Hornets - Cleveland Cavaliers (124-112) (Saat Belirsiz) | NBA_2026_CHARLOTTE_HORNETS_CLEVELAND_CAVALIERS_124_112 | https://ics.fixtur.es/v2/league/nba.ics
 11.11.2026 03:30 | NBA | New York Knicks - Milwaukee Bucks | NBA_2026_NEW_YORK_KNICKS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 11.11.2026 04:00 | NBA | Philadelphia 76ers - Boston Celtics | NBA_2026_PHILADELPHIA_76ERS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
 11.11.2026 05:00 | NBA | Phoenix Suns - LA Clippers | NBA_2026_PHOENIX_SUNS_LA_CLIPPERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -345,6 +346,7 @@
 02.01.2027 04:00 | NBA | Milwaukee Bucks - Philadelphia 76ers | NBA_2026_MILWAUKEE_BUCKS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 02.01.2027 04:30 | NBA | Houston Rockets - Dallas Mavericks | NBA_2026_HOUSTON_ROCKETS_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 02.01.2027 05:30 | NBA | Utah Jazz - Boston Celtics | NBA_2026_UTAH_JAZZ_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
+02.01.2027 21:00 | NBA | Charlotte Hornets - Cleveland Cavaliers | NBA_2026_CHARLOTTE_HORNETS_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
 03.01.2027 01:00 | NBA | Denver Nuggets - New York Knicks | NBA_2026_DENVER_NUGGETS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
 03.01.2027 03:00 | NBA | Indiana Pacers - Minnesota Timberwolves | NBA_2026_INDIANA_PACERS_MINNESOTA_TIMBERWOLVES | https://ics.fixtur.es/v2/league/nba.ics
 03.01.2027 03:00 | NBA | New Orleans Pelicans - Miami Heat | NBA_2026_NEW_ORLEANS_PELICANS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
