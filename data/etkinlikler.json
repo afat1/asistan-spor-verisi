@@ -1278,8 +1278,8 @@
     "event_id": "NBA_2026_HOUSTON_ROCKETS_DENVER_NUGGETS",
     "sport": "NBA",
     "title": "Houston Rockets - Denver Nuggets",
-    "date_str": "2026-11-10",
-    "time_str": "04:30",
+    "date_str": "2027-02-14",
+    "time_str": "22:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -1287,9 +1287,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-11T07:59:05.576470+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-11T07:59:05.576470+03:00: Tarih güncellendi: 2026-11-10 -> 2027-02-14",
+      "2026-11-11T07:59:05.576470+03:00: Başlama saati değişti: 04:30 -> 22:00"
     ]
   },
   "NBA_2026_PHOENIX_SUNS_SAN_ANTONIO_SPURS": {
@@ -1314,7 +1316,7 @@
     "event_id": "NBA_2026_GOLDEN_STATE_WARRIORS_NEW_ORLEANS_PELICANS",
     "sport": "NBA",
     "title": "Golden State Warriors - New Orleans Pelicans",
-    "date_str": "2026-11-10",
+    "date_str": "2027-02-18",
     "time_str": "06:00",
     "has_time": true,
     "tournament": "",
@@ -1323,9 +1325,10 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-11T07:59:05.576470+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-11T07:59:05.576470+03:00: Tarih güncellendi: 2026-11-10 -> 2027-02-18"
     ]
   },
   "NBA_2026_NEW_YORK_KNICKS_MILWAUKEE_BUCKS": {

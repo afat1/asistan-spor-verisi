@@ -1,13 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 10.11.2026 20:49 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 11.11.2026 07:59 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 825
-10.11.2026 03:00 | NBA | Atlanta Hawks - Los Angeles Lakers | NBA_2026_ATLANTA_HAWKS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
-10.11.2026 04:00 | NBA | Dallas Mavericks - Indiana Pacers | NBA_2026_DALLAS_MAVERICKS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
-10.11.2026 04:30 | NBA | Houston Rockets - Denver Nuggets | NBA_2026_HOUSTON_ROCKETS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
-10.11.2026 05:00 | NBA | Phoenix Suns - San Antonio Spurs | NBA_2026_PHOENIX_SUNS_SAN_ANTONIO_SPURS | https://ics.fixtur.es/v2/league/nba.ics
-10.11.2026 06:00 | NBA | Golden State Warriors - New Orleans Pelicans | NBA_2026_GOLDEN_STATE_WARRIORS_NEW_ORLEANS_PELICANS | https://ics.fixtur.es/v2/league/nba.ics
-10.11.2026 00:00 | NBA | Atlanta Hawks - Los Angeles Lakers (114-124) (Saat Belirsiz) | NBA_2026_ATLANTA_HAWKS_LOS_ANGELES_LAKERS_114_124 | https://ics.fixtur.es/v2/league/nba.ics
-10.11.2026 00:00 | NBA | Charlotte Hornets - Cleveland Cavaliers (124-112) (Saat Belirsiz) | NBA_2026_CHARLOTTE_HORNETS_CLEVELAND_CAVALIERS_124_112 | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 820
 11.11.2026 03:30 | NBA | New York Knicks - Milwaukee Bucks | NBA_2026_NEW_YORK_KNICKS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 11.11.2026 04:00 | NBA | Philadelphia 76ers - Boston Celtics | NBA_2026_PHILADELPHIA_76ERS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
 11.11.2026 05:00 | NBA | Phoenix Suns - LA Clippers | NBA_2026_PHOENIX_SUNS_LA_CLIPPERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -604,6 +597,7 @@
 14.02.2027 03:00 | NBA | Washington Wizards - Milwaukee Bucks | NBA_2026_WASHINGTON_WIZARDS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 14.02.2027 04:30 | NBA | New York Knicks - Golden State Warriors | NBA_2026_NEW_YORK_KNICKS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
 14.02.2027 21:00 | NBA | Cleveland Cavaliers - Phoenix Suns | NBA_2026_CLEVELAND_CAVALIERS_PHOENIX_SUNS | https://ics.fixtur.es/v2/league/nba.ics
+14.02.2027 22:00 | NBA | Houston Rockets - Denver Nuggets | NBA_2026_HOUSTON_ROCKETS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
 14.02.2027 22:00 | NBA | New Orleans Pelicans - LA Clippers | NBA_2026_NEW_ORLEANS_PELICANS_LA_CLIPPERS | https://ics.fixtur.es/v2/league/nba.ics
 14.02.2027 00:00 | Futbol | Beşiktaş - Fenerbahçe (Saat Belirsiz) | FB_2026_BESIKTAS_FENERBAHCE | https://ics.fixtur.es/v2/besiktas.ics
 14.02.2027 00:00 | Futbol | Galatasaray - Başakşehir (Saat Belirsiz) | FB_2026_GALATASARAY_BASAKSEHIR | https://ics.fixtur.es/v2/galatasaray.ics
@@ -621,6 +615,7 @@
 18.02.2027 03:00 | NBA | Orlando Magic - Dallas Mavericks | NBA_2026_ORLANDO_MAGIC_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 18.02.2027 03:00 | NBA | Philadelphia 76ers - Phoenix Suns | NBA_2026_PHILADELPHIA_76ERS_PHOENIX_SUNS | https://ics.fixtur.es/v2/league/nba.ics
 18.02.2027 05:30 | NBA | Oklahoma City Thunder - Boston Celtics | NBA_2026_OKLAHOMA_CITY_THUNDER_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
+18.02.2027 06:00 | NBA | Golden State Warriors - New Orleans Pelicans | NBA_2026_GOLDEN_STATE_WARRIORS_NEW_ORLEANS_PELICANS | https://ics.fixtur.es/v2/league/nba.ics
 18.02.2027 06:30 | NBA | LA Clippers - Chicago Bulls | NBA_2026_LA_CLIPPERS_CHICAGO_BULLS | https://ics.fixtur.es/v2/league/nba.ics
 19.02.2027 04:00 | NBA | Memphis Grizzlies - Boston Celtics | NBA_2026_MEMPHIS_GRIZZLIES_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
 21.02.2027 03:00 | Futbol | Erzurumspor FK - Beşiktaş | FB_2026_ERZURUMSPOR_FK_BESIKTAS | https://ics.fixtur.es/v2/besiktas.ics
