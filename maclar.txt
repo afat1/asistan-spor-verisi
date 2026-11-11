@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 11.11.2026 14:00 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 11.11.2026 17:19 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 820
 11.11.2026 03:30 | NBA | New York Knicks - Milwaukee Bucks | NBA_2026_NEW_YORK_KNICKS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
