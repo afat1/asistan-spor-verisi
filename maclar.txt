@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 12.11.2026 17:21 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 12.11.2026 20:54 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 821
 12.11.2026 04:00 | NBA | Memphis Grizzlies - Denver Nuggets | NBA_2026_MEMPHIS_GRIZZLIES_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
