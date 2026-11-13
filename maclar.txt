@@ -1,9 +1,9 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 13.11.2026 07:58 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 13.11.2026 11:21 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 815
-13.11.2026 03:00 | NBA | Philadelphia 76ers - Toronto Raptors | NBA_2026_PHILADELPHIA_76ERS_TORONTO_RAPTORS | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 816
 13.11.2026 04:00 | NBA | Minnesota Timberwolves - Dallas Mavericks | NBA_2026_MINNESOTA_TIMBERWOLVES_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 13.11.2026 05:00 | NBA | Phoenix Suns - Charlotte Hornets | NBA_2026_PHOENIX_SUNS_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics
+13.11.2026 00:00 | NBA | Philadelphia 76ers - Toronto Raptors (123-112) (Saat Belirsiz) | NBA_2026_PHILADELPHIA_76ERS_TORONTO_RAPTORS_123_112 | https://ics.fixtur.es/v2/league/nba.ics
 14.11.2026 03:00 | NBA | Indiana Pacers - New York Knicks | NBA_2026_INDIANA_PACERS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
 14.11.2026 03:00 | NBA | Orlando Magic - Milwaukee Bucks | NBA_2026_ORLANDO_MAGIC_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 14.11.2026 04:00 | NBA | Miami Heat - Cleveland Cavaliers | NBA_2026_MIAMI_HEAT_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -696,6 +696,7 @@
 15.03.2027 02:30 | NBA | Denver Nuggets - Miami Heat | NBA_2026_DENVER_NUGGETS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
 15.03.2027 03:00 | NBA | Minnesota Timberwolves - Washington Wizards | NBA_2026_MINNESOTA_TIMBERWOLVES_WASHINGTON_WIZARDS | https://ics.fixtur.es/v2/league/nba.ics
 15.03.2027 05:00 | NBA | Los Angeles Lakers - Golden State Warriors | NBA_2026_LOS_ANGELES_LAKERS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
+16.03.2027 02:00 | NBA | Philadelphia 76ers - Toronto Raptors | NBA_2026_PHILADELPHIA_76ERS_TORONTO_RAPTORS | https://ics.fixtur.es/v2/league/nba.ics
 16.03.2027 04:30 | NBA | Dallas Mavericks - Atlanta Hawks | NBA_2026_DALLAS_MAVERICKS_ATLANTA_HAWKS | https://ics.fixtur.es/v2/league/nba.ics
 17.03.2027 02:30 | NBA | Boston Celtics - Sacramento Kings | NBA_2026_BOSTON_CELTICS_SACRAMENTO_KINGS | https://ics.fixtur.es/v2/league/nba.ics
 17.03.2027 03:00 | NBA | Oklahoma City Thunder - Charlotte Hornets | NBA_2026_OKLAHOMA_CITY_THUNDER_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics

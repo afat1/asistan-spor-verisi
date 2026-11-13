@@ -1544,8 +1544,8 @@
     "event_id": "NBA_2026_PHILADELPHIA_76ERS_TORONTO_RAPTORS",
     "sport": "NBA",
     "title": "Philadelphia 76ers - Toronto Raptors",
-    "date_str": "2026-11-13",
-    "time_str": "03:00",
+    "date_str": "2027-03-16",
+    "time_str": "02:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -1553,9 +1553,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-13T11:21:39.459255+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-13T11:21:39.459255+03:00: Tarih güncellendi: 2026-11-13 -> 2027-03-16",
+      "2026-11-13T11:21:39.459255+03:00: Başlama saati değişti: 03:00 -> 02:00"
     ]
   },
   "NBA_2026_MINNESOTA_TIMBERWOLVES_DALLAS_MAVERICKS": {
@@ -16336,6 +16338,42 @@
     "last_updated": "2026-11-12T07:59:51.869872+03:00",
     "change_log": [
       "2026-11-12T07:59:51.869872+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "FB_2026_TURKIYE_BELGIUM_1_2": {
+    "event_id": "FB_2026_TURKIYE_BELGIUM_1_2",
+    "sport": "Futbol",
+    "title": "Türkiye - Belgium (1-2)",
+    "date_str": "2026-11-12",
+    "time_str": "20:00",
+    "has_time": true,
+    "tournament": "UEFA / Millî Maçlar",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/tr.ics",
+    "first_seen": "2026-11-13T11:21:39.459255+03:00",
+    "last_updated": "2026-11-13T11:21:39.459255+03:00",
+    "change_log": [
+      "2026-11-13T11:21:39.459255+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/tr.ics)."
+    ]
+  },
+  "NBA_2026_PHILADELPHIA_76ERS_TORONTO_RAPTORS_123_112": {
+    "event_id": "NBA_2026_PHILADELPHIA_76ERS_TORONTO_RAPTORS_123_112",
+    "sport": "NBA",
+    "title": "Philadelphia 76ers - Toronto Raptors (123-112)",
+    "date_str": "2026-11-13",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-13T11:21:39.459255+03:00",
+    "last_updated": "2026-11-13T11:21:39.459255+03:00",
+    "change_log": [
+      "2026-11-13T11:21:39.459255+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
     ]
   }
 }
