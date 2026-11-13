@@ -1506,8 +1506,8 @@
     "event_id": "NBA_2026_HOUSTON_ROCKETS_GOLDEN_STATE_WARRIORS",
     "sport": "NBA",
     "title": "Houston Rockets - Golden State Warriors",
-    "date_str": "2026-11-12",
-    "time_str": "05:30",
+    "date_str": "2027-03-02",
+    "time_str": "04:30",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -1515,9 +1515,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-13T07:58:59.107479+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-13T07:58:59.107479+03:00: Tarih güncellendi: 2026-11-12 -> 2027-03-02",
+      "2026-11-13T07:58:59.107479+03:00: Başlama saati değişti: 05:30 -> 04:30"
     ]
   },
   "FB_2026_TURKIYE_BELGIUM": {

@@ -1,13 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 12.11.2026 20:54 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 13.11.2026 07:58 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 821
-12.11.2026 04:00 | NBA | Memphis Grizzlies - Denver Nuggets | NBA_2026_MEMPHIS_GRIZZLIES_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
-12.11.2026 04:00 | NBA | Milwaukee Bucks - Los Angeles Lakers | NBA_2026_MILWAUKEE_BUCKS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
-12.11.2026 05:30 | NBA | Houston Rockets - Golden State Warriors | NBA_2026_HOUSTON_ROCKETS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
-12.11.2026 06:00 | NBA | Portland Trail Blazers - Oklahoma City Thunder | NBA_2026_PORTLAND_TRAIL_BLAZERS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
-12.11.2026 20:00 | Futbol | Türkiye - Belgium | FB_2026_TURKIYE_BELGIUM | https://ics.fixtur.es/v2/tr.ics
-12.11.2026 00:00 | NBA | New York Knicks - Cleveland Cavaliers (107-115) (Saat Belirsiz) | NBA_2026_NEW_YORK_KNICKS_CLEVELAND_CAVALIERS_107_115 | https://ics.fixtur.es/v2/league/nba.ics
-12.11.2026 00:00 | NBA | Toronto Raptors - Boston Celtics (93-98) (Saat Belirsiz) | NBA_2026_TORONTO_RAPTORS_BOSTON_CELTICS_93_98 | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 815
 13.11.2026 03:00 | NBA | Philadelphia 76ers - Toronto Raptors | NBA_2026_PHILADELPHIA_76ERS_TORONTO_RAPTORS | https://ics.fixtur.es/v2/league/nba.ics
 13.11.2026 04:00 | NBA | Minnesota Timberwolves - Dallas Mavericks | NBA_2026_MINNESOTA_TIMBERWOLVES_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 13.11.2026 05:00 | NBA | Phoenix Suns - Charlotte Hornets | NBA_2026_PHOENIX_SUNS_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics
@@ -641,6 +634,7 @@
 01.03.2027 05:30 | NBA | Houston Rockets - Miami Heat | NBA_2026_HOUSTON_ROCKETS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
 01.03.2027 06:30 | NBA | LA Clippers - Portland Trail Blazers | NBA_2026_LA_CLIPPERS_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
 02.03.2027 03:30 | NBA | Cleveland Cavaliers - Philadelphia 76ers | NBA_2026_CLEVELAND_CAVALIERS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
+02.03.2027 04:30 | NBA | Houston Rockets - Golden State Warriors | NBA_2026_HOUSTON_ROCKETS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
 02.03.2027 05:00 | NBA | Denver Nuggets - Brooklyn Nets | NBA_2026_DENVER_NUGGETS_BROOKLYN_NETS | https://ics.fixtur.es/v2/league/nba.ics
 02.03.2027 05:30 | NBA | Phoenix Suns - Washington Wizards | NBA_2026_PHOENIX_SUNS_WASHINGTON_WIZARDS | https://ics.fixtur.es/v2/league/nba.ics
 03.03.2027 03:00 | NBA | Indiana Pacers - Boston Celtics | NBA_2026_INDIANA_PACERS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
