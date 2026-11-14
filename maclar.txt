@@ -1,9 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 13.11.2026 20:52 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 14.11.2026 07:53 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 816
-13.11.2026 04:00 | NBA | Minnesota Timberwolves - Dallas Mavericks | NBA_2026_MINNESOTA_TIMBERWOLVES_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
-13.11.2026 05:00 | NBA | Phoenix Suns - Charlotte Hornets | NBA_2026_PHOENIX_SUNS_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics
-13.11.2026 00:00 | NBA | Philadelphia 76ers - Toronto Raptors (123-112) (Saat Belirsiz) | NBA_2026_PHILADELPHIA_76ERS_TORONTO_RAPTORS_123_112 | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 814
 14.11.2026 03:00 | NBA | Indiana Pacers - New York Knicks | NBA_2026_INDIANA_PACERS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
 14.11.2026 03:00 | NBA | Orlando Magic - Milwaukee Bucks | NBA_2026_ORLANDO_MAGIC_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 14.11.2026 04:00 | NBA | Miami Heat - Cleveland Cavaliers | NBA_2026_MIAMI_HEAT_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -736,6 +733,7 @@
 25.03.2027 02:00 | NBA | Washington Wizards - Denver Nuggets | NBA_2026_WASHINGTON_WIZARDS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
 25.03.2027 02:30 | NBA | Boston Celtics - San Antonio Spurs | NBA_2026_BOSTON_CELTICS_SAN_ANTONIO_SPURS | https://ics.fixtur.es/v2/league/nba.ics
 25.03.2027 02:30 | NBA | New York Knicks - Houston Rockets | NBA_2026_NEW_YORK_KNICKS_HOUSTON_ROCKETS | https://ics.fixtur.es/v2/league/nba.ics
+25.03.2027 04:00 | NBA | Minnesota Timberwolves - Dallas Mavericks | NBA_2026_MINNESOTA_TIMBERWOLVES_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 25.03.2027 05:00 | NBA | Golden State Warriors - Philadelphia 76ers | NBA_2026_GOLDEN_STATE_WARRIORS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 25.03.2027 05:30 | NBA | LA Clippers - Milwaukee Bucks | NBA_2026_LA_CLIPPERS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 26.03.2027 02:00 | NBA | Cleveland Cavaliers - Los Angeles Lakers | NBA_2026_CLEVELAND_CAVALIERS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics

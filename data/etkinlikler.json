@@ -1564,7 +1564,7 @@
     "event_id": "NBA_2026_MINNESOTA_TIMBERWOLVES_DALLAS_MAVERICKS",
     "sport": "NBA",
     "title": "Minnesota Timberwolves - Dallas Mavericks",
-    "date_str": "2026-11-13",
+    "date_str": "2027-03-25",
     "time_str": "04:00",
     "has_time": true,
     "tournament": "",
@@ -1573,9 +1573,10 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-14T07:53:51.393206+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-14T07:53:51.393206+03:00: Tarih güncellendi: 2026-11-13 -> 2027-03-25"
     ]
   },
   "NBA_2026_PHOENIX_SUNS_CHARLOTTE_HORNETS": {
