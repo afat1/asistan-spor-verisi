@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 14.11.2026 16:52 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 14.11.2026 20:38 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 816
 14.11.2026 03:00 | NBA | Indiana Pacers - New York Knicks | NBA_2026_INDIANA_PACERS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
