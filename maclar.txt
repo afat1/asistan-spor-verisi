@@ -1,11 +1,12 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 14.11.2026 07:53 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 14.11.2026 11:01 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 814
+# Toplam Etkinlik Sayisi: 816
 14.11.2026 03:00 | NBA | Indiana Pacers - New York Knicks | NBA_2026_INDIANA_PACERS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
-14.11.2026 03:00 | NBA | Orlando Magic - Milwaukee Bucks | NBA_2026_ORLANDO_MAGIC_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 14.11.2026 04:00 | NBA | Miami Heat - Cleveland Cavaliers | NBA_2026_MIAMI_HEAT_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
 14.11.2026 05:30 | NBA | San Antonio Spurs - Golden State Warriors | NBA_2026_SAN_ANTONIO_SPURS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
 14.11.2026 06:30 | NBA | LA Clippers - Oklahoma City Thunder | NBA_2026_LA_CLIPPERS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
+14.11.2026 00:00 | NBA | Indiana Pacers - New York Knicks (106-104) (Saat Belirsiz) | NBA_2026_INDIANA_PACERS_NEW_YORK_KNICKS_106_104 | https://ics.fixtur.es/v2/league/nba.ics
+14.11.2026 00:00 | NBA | Orlando Magic - Milwaukee Bucks (107-99) (Saat Belirsiz) | NBA_2026_ORLANDO_MAGIC_MILWAUKEE_BUCKS_107_99 | https://ics.fixtur.es/v2/league/nba.ics
 15.11.2026 03:00 | NBA | New Orleans Pelicans - Denver Nuggets | NBA_2026_NEW_ORLEANS_PELICANS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
 15.11.2026 03:30 | NBA | Cleveland Cavaliers - Dallas Mavericks | NBA_2026_CLEVELAND_CAVALIERS_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 15.11.2026 04:00 | NBA | Miami Heat - Detroit Pistons | NBA_2026_MIAMI_HEAT_DETROIT_PISTONS | https://ics.fixtur.es/v2/league/nba.ics
@@ -302,6 +303,7 @@
 28.12.2026 02:00 | NBA | Cleveland Cavaliers - Washington Wizards | NBA_2026_CLEVELAND_CAVALIERS_WASHINGTON_WIZARDS | https://ics.fixtur.es/v2/league/nba.ics
 28.12.2026 02:00 | NBA | Miami Heat - Charlotte Hornets | NBA_2026_MIAMI_HEAT_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics
 28.12.2026 02:00 | NBA | New York Knicks - Brooklyn Nets | NBA_2026_NEW_YORK_KNICKS_BROOKLYN_NETS | https://ics.fixtur.es/v2/league/nba.ics
+28.12.2026 02:00 | NBA | Orlando Magic - Milwaukee Bucks | NBA_2026_ORLANDO_MAGIC_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 28.12.2026 04:00 | NBA | Denver Nuggets - Indiana Pacers | NBA_2026_DENVER_NUGGETS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
 28.12.2026 04:30 | NBA | Golden State Warriors - Minnesota Timberwolves | NBA_2026_GOLDEN_STATE_WARRIORS_MINNESOTA_TIMBERWOLVES | https://ics.fixtur.es/v2/league/nba.ics
 28.12.2026 05:00 | NBA | LA Clippers - Philadelphia 76ers | NBA_2026_LA_CLIPPERS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics

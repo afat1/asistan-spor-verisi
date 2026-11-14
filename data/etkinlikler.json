@@ -1619,8 +1619,8 @@
     "event_id": "NBA_2026_ORLANDO_MAGIC_MILWAUKEE_BUCKS",
     "sport": "NBA",
     "title": "Orlando Magic - Milwaukee Bucks",
-    "date_str": "2026-11-14",
-    "time_str": "03:00",
+    "date_str": "2026-12-28",
+    "time_str": "02:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -1628,9 +1628,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-14T11:01:33.613144+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-14T11:01:33.613144+03:00: Tarih güncellendi: 2026-11-14 -> 2026-12-28",
+      "2026-11-14T11:01:33.613144+03:00: Başlama saati değişti: 03:00 -> 02:00"
     ]
   },
   "NBA_2026_MIAMI_HEAT_CLEVELAND_CAVALIERS": {
@@ -16375,6 +16377,42 @@
     "last_updated": "2026-11-13T11:21:39.459255+03:00",
     "change_log": [
       "2026-11-13T11:21:39.459255+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "NBA_2026_INDIANA_PACERS_NEW_YORK_KNICKS_106_104": {
+    "event_id": "NBA_2026_INDIANA_PACERS_NEW_YORK_KNICKS_106_104",
+    "sport": "NBA",
+    "title": "Indiana Pacers - New York Knicks (106-104)",
+    "date_str": "2026-11-14",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-14T11:01:33.613144+03:00",
+    "last_updated": "2026-11-14T11:01:33.613144+03:00",
+    "change_log": [
+      "2026-11-14T11:01:33.613144+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "NBA_2026_ORLANDO_MAGIC_MILWAUKEE_BUCKS_107_99": {
+    "event_id": "NBA_2026_ORLANDO_MAGIC_MILWAUKEE_BUCKS_107_99",
+    "sport": "NBA",
+    "title": "Orlando Magic - Milwaukee Bucks (107-99)",
+    "date_str": "2026-11-14",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-14T11:01:33.613144+03:00",
+    "last_updated": "2026-11-14T11:01:33.613144+03:00",
+    "change_log": [
+      "2026-11-14T11:01:33.613144+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
     ]
   }
 }
