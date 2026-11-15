@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 15.11.2026 07:55 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 15.11.2026 11:08 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 810
 15.11.2026 03:00 | NBA | New Orleans Pelicans - Denver Nuggets | NBA_2026_NEW_ORLEANS_PELICANS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
