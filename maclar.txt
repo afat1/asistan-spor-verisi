@@ -1,6 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 15.11.2026 11:08 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 15.11.2026 13:44 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 810
+# Toplam Etkinlik Sayisi: 811
 15.11.2026 03:00 | NBA | New Orleans Pelicans - Denver Nuggets | NBA_2026_NEW_ORLEANS_PELICANS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
 15.11.2026 03:30 | NBA | Cleveland Cavaliers - Dallas Mavericks | NBA_2026_CLEVELAND_CAVALIERS_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 15.11.2026 04:00 | NBA | Miami Heat - Detroit Pistons | NBA_2026_MIAMI_HEAT_DETROIT_PISTONS | https://ics.fixtur.es/v2/league/nba.ics
@@ -12,6 +12,7 @@
 15.11.2026 05:00 | UFC | UFC 334: Gane vs Hokit - Uroš Medić vs Kevin Holland | UFC_UFC_334_GANE_VS_HOKIT_URO_MEDI_VS_KEVIN_HOLLAND | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
 15.11.2026 21:00 | NBA | Philadelphia 76ers - Indiana Pacers | NBA_2026_PHILADELPHIA_76ERS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
 15.11.2026 22:45 | Futbol | France - Türkiye | FB_2026_FRANCE_TURKIYE | https://ics.fixtur.es/v2/tr.ics
+15.11.2026 00:00 | NBA | New Orleans Pelicans - Denver Nuggets (108-116) (Saat Belirsiz) | NBA_2026_NEW_ORLEANS_PELICANS_DENVER_NUGGETS_108_116 | https://ics.fixtur.es/v2/league/nba.ics
 16.11.2026 00:00 | NBA | Phoenix Suns - Los Angeles Lakers | NBA_2026_PHOENIX_SUNS_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
 16.11.2026 00:30 | NBA | LA Clippers - Charlotte Hornets | NBA_2026_LA_CLIPPERS_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics
 16.11.2026 02:00 | NBA | Boston Celtics - Dallas Mavericks | NBA_2026_BOSTON_CELTICS_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
@@ -30,9 +31,9 @@
 19.11.2026 03:00 | NBA | Cleveland Cavaliers - Memphis Grizzlies | NBA_2026_CLEVELAND_CAVALIERS_MEMPHIS_GRIZZLIES | https://ics.fixtur.es/v2/league/nba.ics
 19.11.2026 03:00 | NBA | Miami Heat - Milwaukee Bucks | NBA_2026_MIAMI_HEAT_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 19.11.2026 03:00 | NBA | Orlando Magic - Philadelphia 76ers | NBA_2026_ORLANDO_MAGIC_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
+19.11.2026 04:00 | NBA | Dallas Mavericks - Golden State Warriors | NBA_2026_DALLAS_MAVERICKS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
 19.11.2026 04:00 | NBA | Oklahoma City Thunder - Atlanta Hawks | NBA_2026_OKLAHOMA_CITY_THUNDER_ATLANTA_HAWKS | https://ics.fixtur.es/v2/league/nba.ics
-19.11.2026 05:00 | NBA | Denver Nuggets - Boston Celtics | NBA_2026_DENVER_NUGGETS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
-19.11.2026 05:30 | NBA | Dallas Mavericks - Golden State Warriors | NBA_2026_DALLAS_MAVERICKS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
+19.11.2026 05:30 | NBA | Denver Nuggets - Boston Celtics | NBA_2026_DENVER_NUGGETS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
 19.11.2026 06:00 | NBA | Los Angeles Lakers - Utah Jazz | NBA_2026_LOS_ANGELES_LAKERS_UTAH_JAZZ | https://ics.fixtur.es/v2/league/nba.ics
 19.11.2026 06:00 | NBA | Sacramento Kings - Phoenix Suns | NBA_2026_SACRAMENTO_KINGS_PHOENIX_SUNS | https://ics.fixtur.es/v2/league/nba.ics
 20.11.2026 03:30 | Formula 1 | Formula 1 - Las Vegas GP - 1. Antrenman | F1_2026_R21_FP1 | https://api.jolpi.ca/ergast/f1/2026.json

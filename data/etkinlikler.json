@@ -2242,24 +2242,6 @@
     "sport": "NBA",
     "title": "Denver Nuggets - Boston Celtics",
     "date_str": "2026-11-19",
-    "time_str": "05:00",
-    "has_time": true,
-    "tournament": "",
-    "session_or_stage": "",
-    "venue": "",
-    "status": "SCHEDULED",
-    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
-    "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
-    "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
-    ]
-  },
-  "NBA_2026_DALLAS_MAVERICKS_GOLDEN_STATE_WARRIORS": {
-    "event_id": "NBA_2026_DALLAS_MAVERICKS_GOLDEN_STATE_WARRIORS",
-    "sport": "NBA",
-    "title": "Dallas Mavericks - Golden State Warriors",
-    "date_str": "2026-11-19",
     "time_str": "05:30",
     "has_time": true,
     "tournament": "",
@@ -2268,9 +2250,29 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-15T13:44:50.267734+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-15T13:44:50.267734+03:00: Başlama saati değişti: 05:00 -> 05:30"
+    ]
+  },
+  "NBA_2026_DALLAS_MAVERICKS_GOLDEN_STATE_WARRIORS": {
+    "event_id": "NBA_2026_DALLAS_MAVERICKS_GOLDEN_STATE_WARRIORS",
+    "sport": "NBA",
+    "title": "Dallas Mavericks - Golden State Warriors",
+    "date_str": "2026-11-19",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-15T13:44:50.267734+03:00",
+    "change_log": [
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-15T13:44:50.267734+03:00: Başlama saati değişti: 05:30 -> 04:00"
     ]
   },
   "NBA_2026_SACRAMENTO_KINGS_PHOENIX_SUNS": {
@@ -16413,6 +16415,24 @@
     "last_updated": "2026-11-14T11:01:33.613144+03:00",
     "change_log": [
       "2026-11-14T11:01:33.613144+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "NBA_2026_NEW_ORLEANS_PELICANS_DENVER_NUGGETS_108_116": {
+    "event_id": "NBA_2026_NEW_ORLEANS_PELICANS_DENVER_NUGGETS_108_116",
+    "sport": "NBA",
+    "title": "New Orleans Pelicans - Denver Nuggets (108-116)",
+    "date_str": "2026-11-15",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-15T13:44:50.267734+03:00",
+    "last_updated": "2026-11-15T13:44:50.267734+03:00",
+    "change_log": [
+      "2026-11-15T13:44:50.267734+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
     ]
   }
 }
