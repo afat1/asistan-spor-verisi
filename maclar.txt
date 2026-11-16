@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 16.11.2026 12:41 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 16.11.2026 14:25 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 804
 16.11.2026 00:00 | NBA | Phoenix Suns - Los Angeles Lakers (123-131) | NBA_2026_PHOENIX_SUNS_LOS_ANGELES_LAKERS_123_131 | https://ics.fixtur.es/v2/league/nba.ics
