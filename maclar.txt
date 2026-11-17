@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 17.11.2026 11:23 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 17.11.2026 14:03 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 800
 17.11.2026 03:30 | NBA | Brooklyn Nets - Philadelphia 76ers | NBA_2026_BROOKLYN_NETS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
