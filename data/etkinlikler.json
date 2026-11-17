@@ -1953,7 +1953,7 @@
     "event_id": "NBA_2026_MILWAUKEE_BUCKS_ATLANTA_HAWKS",
     "sport": "NBA",
     "title": "Milwaukee Bucks - Atlanta Hawks",
-    "date_str": "2026-11-16",
+    "date_str": "2027-01-31",
     "time_str": "04:00",
     "has_time": true,
     "tournament": "",
@@ -1962,17 +1962,18 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-17T07:59:06.488972+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-17T07:59:06.488972+03:00: Tarih güncellendi: 2026-11-16 -> 2027-01-31"
     ]
   },
   "NBA_2026_SACRAMENTO_KINGS_OKLAHOMA_CITY_THUNDER": {
     "event_id": "NBA_2026_SACRAMENTO_KINGS_OKLAHOMA_CITY_THUNDER",
     "sport": "NBA",
     "title": "Sacramento Kings - Oklahoma City Thunder",
-    "date_str": "2026-11-16",
-    "time_str": "05:00",
+    "date_str": "2027-03-05",
+    "time_str": "06:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -1980,9 +1981,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-17T07:59:06.488972+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-17T07:59:06.488972+03:00: Tarih güncellendi: 2026-11-16 -> 2027-03-05",
+      "2026-11-17T07:59:06.488972+03:00: Başlama saati değişti: 05:00 -> 06:00"
     ]
   },
   "NBA_2026_PHOENIX_SUNS_LOS_ANGELES_LAKERS": {
@@ -2010,8 +2013,8 @@
     "event_id": "NBA_2026_BOSTON_CELTICS_ORLANDO_MAGIC",
     "sport": "NBA",
     "title": "Boston Celtics - Orlando Magic",
-    "date_str": "2026-11-17",
-    "time_str": "03:00",
+    "date_str": "2027-03-19",
+    "time_str": "02:30",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -2019,17 +2022,19 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-17T07:59:06.488972+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-17T07:59:06.488972+03:00: Tarih güncellendi: 2026-11-17 -> 2027-03-19",
+      "2026-11-17T07:59:06.488972+03:00: Başlama saati değişti: 03:00 -> 02:30"
     ]
   },
   "NBA_2026_CLEVELAND_CAVALIERS_CHICAGO_BULLS": {
     "event_id": "NBA_2026_CLEVELAND_CAVALIERS_CHICAGO_BULLS",
     "sport": "NBA",
     "title": "Cleveland Cavaliers - Chicago Bulls",
-    "date_str": "2026-11-17",
-    "time_str": "03:00",
+    "date_str": "2027-03-21",
+    "time_str": "02:30",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -2037,9 +2042,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-17T07:59:06.488972+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-17T07:59:06.488972+03:00: Tarih güncellendi: 2026-11-17 -> 2027-03-21",
+      "2026-11-17T07:59:06.488972+03:00: Başlama saati değişti: 03:00 -> 02:30"
     ]
   },
   "NBA_2026_BROOKLYN_NETS_PHILADELPHIA_76ERS": {
@@ -16528,6 +16535,42 @@
     "last_updated": "2026-11-16T08:33:35.375166+03:00",
     "change_log": [
       "2026-11-16T08:33:35.375166+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "NBA_2026_BOSTON_CELTICS_ORLANDO_MAGIC_105_115": {
+    "event_id": "NBA_2026_BOSTON_CELTICS_ORLANDO_MAGIC_105_115",
+    "sport": "NBA",
+    "title": "Boston Celtics - Orlando Magic (105-115)",
+    "date_str": "2026-11-17",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-17T07:59:06.488972+03:00",
+    "last_updated": "2026-11-17T07:59:06.488972+03:00",
+    "change_log": [
+      "2026-11-17T07:59:06.488972+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "NBA_2026_CLEVELAND_CAVALIERS_CHICAGO_BULLS_126_115": {
+    "event_id": "NBA_2026_CLEVELAND_CAVALIERS_CHICAGO_BULLS_126_115",
+    "sport": "NBA",
+    "title": "Cleveland Cavaliers - Chicago Bulls (126-115)",
+    "date_str": "2026-11-17",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-17T07:59:06.488972+03:00",
+    "last_updated": "2026-11-17T07:59:06.488972+03:00",
+    "change_log": [
+      "2026-11-17T07:59:06.488972+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
     ]
   }
 }
