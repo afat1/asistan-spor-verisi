@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 18.11.2026 08:01 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 18.11.2026 11:21 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 807
 18.11.2026 03:30 | NBA | Toronto Raptors - New York Knicks | NBA_2026_TORONTO_RAPTORS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
