@@ -1,14 +1,8 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 17.11.2026 21:00 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 18.11.2026 08:01 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 811
-17.11.2026 03:30 | NBA | Brooklyn Nets - Philadelphia 76ers | NBA_2026_BROOKLYN_NETS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
-17.11.2026 03:30 | NBA | Miami Heat - Houston Rockets | NBA_2026_MIAMI_HEAT_HOUSTON_ROCKETS | https://ics.fixtur.es/v2/league/nba.ics
-17.11.2026 04:00 | NBA | Minnesota Timberwolves - Portland Trail Blazers | NBA_2026_MINNESOTA_TIMBERWOLVES_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
-17.11.2026 04:00 | NBA | New Orleans Pelicans - Golden State Warriors | NBA_2026_NEW_ORLEANS_PELICANS_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
-17.11.2026 05:00 | NBA | Denver Nuggets - Phoenix Suns | NBA_2026_DENVER_NUGGETS_PHOENIX_SUNS | https://ics.fixtur.es/v2/league/nba.ics
-17.11.2026 00:00 | NBA | Boston Celtics - Orlando Magic (105-115) (Saat Belirsiz) | NBA_2026_BOSTON_CELTICS_ORLANDO_MAGIC_105_115 | https://ics.fixtur.es/v2/league/nba.ics
-17.11.2026 00:00 | NBA | Cleveland Cavaliers - Chicago Bulls (126-115) (Saat Belirsiz) | NBA_2026_CLEVELAND_CAVALIERS_CHICAGO_BULLS_126_115 | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 807
 18.11.2026 03:30 | NBA | Toronto Raptors - New York Knicks | NBA_2026_TORONTO_RAPTORS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
+18.11.2026 04:00 | NBA | Minnesota Timberwolves - Portland Trail Blazers | NBA_2026_MINNESOTA_TIMBERWOLVES_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
 18.11.2026 06:30 | NBA | LA Clippers - Utah Jazz | NBA_2026_LA_CLIPPERS_UTAH_JAZZ | https://ics.fixtur.es/v2/league/nba.ics
 18.11.2026 07:00 | NBA | Los Angeles Lakers - Charlotte Hornets | NBA_2026_LOS_ANGELES_LAKERS_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics
 19.11.2026 03:00 | NBA | Cleveland Cavaliers - Memphis Grizzlies | NBA_2026_CLEVELAND_CAVALIERS_MEMPHIS_GRIZZLIES | https://ics.fixtur.es/v2/league/nba.ics
@@ -334,6 +328,7 @@
 06.01.2027 03:30 | NBA | Miami Heat - Memphis Grizzlies | NBA_2026_MIAMI_HEAT_MEMPHIS_GRIZZLIES | https://ics.fixtur.es/v2/league/nba.ics
 06.01.2027 04:00 | NBA | Chicago Bulls - Milwaukee Bucks | NBA_2026_CHICAGO_BULLS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 06.01.2027 04:00 | NBA | Houston Rockets - Minnesota Timberwolves | NBA_2026_HOUSTON_ROCKETS_MINNESOTA_TIMBERWOLVES | https://ics.fixtur.es/v2/league/nba.ics
+06.01.2027 06:00 | NBA | Denver Nuggets - Phoenix Suns | NBA_2026_DENVER_NUGGETS_PHOENIX_SUNS | https://ics.fixtur.es/v2/league/nba.ics
 07.01.2027 03:30 | NBA | Philadelphia 76ers - Oklahoma City Thunder | NBA_2026_PHILADELPHIA_76ERS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
 07.01.2027 06:00 | NBA | Golden State Warriors - New York Knicks | NBA_2026_GOLDEN_STATE_WARRIORS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
 08.01.2027 03:00 | NBA | Charlotte Hornets - Denver Nuggets | NBA_2026_CHARLOTTE_HORNETS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
@@ -608,6 +603,7 @@
 21.02.2027 00:00 | Futbol | Trabzonspor - Konyaspor (Saat Belirsiz) | FB_2026_TRABZONSPOR_KONYASPOR | https://ics.fixtur.es/v2/trabzonspor.ics
 26.02.2027 03:00 | NBA | Cleveland Cavaliers - Sacramento Kings | NBA_2026_CLEVELAND_CAVALIERS_SACRAMENTO_KINGS | https://ics.fixtur.es/v2/league/nba.ics
 26.02.2027 03:00 | NBA | Detroit Pistons - Miami Heat | NBA_2026_DETROIT_PISTONS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
+26.02.2027 03:30 | NBA | Brooklyn Nets - Philadelphia 76ers | NBA_2026_BROOKLYN_NETS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 26.02.2027 03:30 | NBA | New York Knicks - Oklahoma City Thunder | NBA_2026_NEW_YORK_KNICKS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
 26.02.2027 04:00 | NBA | Milwaukee Bucks - Washington Wizards | NBA_2026_MILWAUKEE_BUCKS_WASHINGTON_WIZARDS | https://ics.fixtur.es/v2/league/nba.ics
 27.02.2027 04:00 | NBA | Minnesota Timberwolves - Indiana Pacers | NBA_2026_MINNESOTA_TIMBERWOLVES_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
