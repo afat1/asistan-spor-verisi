@@ -2222,7 +2222,7 @@
     "event_id": "NBA_2026_ORLANDO_MAGIC_PHILADELPHIA_76ERS",
     "sport": "NBA",
     "title": "Orlando Magic - Philadelphia 76ers",
-    "date_str": "2026-11-19",
+    "date_str": "2026-12-15",
     "time_str": "03:00",
     "has_time": true,
     "tournament": "",
@@ -2231,9 +2231,10 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-19T11:27:10.513618+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-19T11:27:10.513618+03:00: Tarih güncellendi: 2026-11-19 -> 2026-12-15"
     ]
   },
   "NBA_2026_OKLAHOMA_CITY_THUNDER_ATLANTA_HAWKS": {
@@ -16774,6 +16775,42 @@
     "last_updated": "2026-11-17T17:20:46.668876+03:00",
     "change_log": [
       "2026-11-17T17:20:46.668876+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "NBA_2026_CLEVELAND_CAVALIERS_MEMPHIS_GRIZZLIES_121_124": {
+    "event_id": "NBA_2026_CLEVELAND_CAVALIERS_MEMPHIS_GRIZZLIES_121_124",
+    "sport": "NBA",
+    "title": "Cleveland Cavaliers - Memphis Grizzlies (121-124)",
+    "date_str": "2026-11-19",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-19T11:27:10.513618+03:00",
+    "last_updated": "2026-11-19T11:27:10.513618+03:00",
+    "change_log": [
+      "2026-11-19T11:27:10.513618+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "NBA_2026_ORLANDO_MAGIC_PHILADELPHIA_76ERS_116_121": {
+    "event_id": "NBA_2026_ORLANDO_MAGIC_PHILADELPHIA_76ERS_116_121",
+    "sport": "NBA",
+    "title": "Orlando Magic - Philadelphia 76ers (116-121)",
+    "date_str": "2026-11-19",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-19T11:27:10.513618+03:00",
+    "last_updated": "2026-11-19T11:27:10.513618+03:00",
+    "change_log": [
+      "2026-11-19T11:27:10.513618+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
     ]
   }
 }
