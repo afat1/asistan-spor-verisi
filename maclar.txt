@@ -1,10 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 18.11.2026 20:57 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 19.11.2026 08:06 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 807
-18.11.2026 03:30 | NBA | Toronto Raptors - New York Knicks | NBA_2026_TORONTO_RAPTORS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
-18.11.2026 04:00 | NBA | Minnesota Timberwolves - Portland Trail Blazers | NBA_2026_MINNESOTA_TIMBERWOLVES_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
-18.11.2026 06:30 | NBA | LA Clippers - Utah Jazz | NBA_2026_LA_CLIPPERS_UTAH_JAZZ | https://ics.fixtur.es/v2/league/nba.ics
-18.11.2026 07:00 | NBA | Los Angeles Lakers - Charlotte Hornets | NBA_2026_LOS_ANGELES_LAKERS_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 804
 19.11.2026 03:00 | NBA | Cleveland Cavaliers - Memphis Grizzlies | NBA_2026_CLEVELAND_CAVALIERS_MEMPHIS_GRIZZLIES | https://ics.fixtur.es/v2/league/nba.ics
 19.11.2026 03:00 | NBA | Miami Heat - Milwaukee Bucks | NBA_2026_MIAMI_HEAT_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 19.11.2026 03:00 | NBA | Orlando Magic - Philadelphia 76ers | NBA_2026_ORLANDO_MAGIC_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -606,6 +602,7 @@
 26.02.2027 03:30 | NBA | Brooklyn Nets - Philadelphia 76ers | NBA_2026_BROOKLYN_NETS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 26.02.2027 03:30 | NBA | New York Knicks - Oklahoma City Thunder | NBA_2026_NEW_YORK_KNICKS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
 26.02.2027 04:00 | NBA | Milwaukee Bucks - Washington Wizards | NBA_2026_MILWAUKEE_BUCKS_WASHINGTON_WIZARDS | https://ics.fixtur.es/v2/league/nba.ics
+26.02.2027 06:30 | NBA | LA Clippers - Utah Jazz | NBA_2026_LA_CLIPPERS_UTAH_JAZZ | https://ics.fixtur.es/v2/league/nba.ics
 27.02.2027 04:00 | NBA | Minnesota Timberwolves - Indiana Pacers | NBA_2026_MINNESOTA_TIMBERWOLVES_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
 27.02.2027 06:00 | NBA | Portland Trail Blazers - Dallas Mavericks | NBA_2026_PORTLAND_TRAIL_BLAZERS_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 28.02.2027 01:30 | NBA | Detroit Pistons - Oklahoma City Thunder | NBA_2026_DETROIT_PISTONS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
