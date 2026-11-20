@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 20.11.2026 11:21 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 20.11.2026 14:03 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 812
 20.11.2026 03:30 | Formula 1 | Formula 1 - Las Vegas GP - 1. Antrenman | F1_2026_R21_FP1 | https://api.jolpi.ca/ergast/f1/2026.json
@@ -109,9 +109,9 @@
 29.11.2026 16:00 | MotoGP | MotoGP - [MotoGP] RAC #ValenciaGP | MGP_2026_MOTOGP_RAC_VALENCIAGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
 29.11.2026 19:00 | Formula 1 | Formula 1 - Qatar GP - Yaris | F1_2026_R22_RACE | https://api.jolpi.ca/ergast/f1/2026.json
 29.11.2026 19:00 | Futbol | Fenerbahçe - Erzurumspor FK | FB_2026_FENERBAHCE_ERZURUMSPOR_FK | https://ics.fixtur.es/v2/fenerbahce.ics
+29.11.2026 23:30 | NBA | Cleveland Cavaliers - Miami Heat | NBA_2026_CLEVELAND_CAVALIERS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 00:00 | NBA | Memphis Grizzlies - Los Angeles Lakers | NBA_2026_MEMPHIS_GRIZZLIES_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 00:00 | NBA | San Antonio Spurs - Boston Celtics | NBA_2026_SAN_ANTONIO_SPURS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
-30.11.2026 02:00 | NBA | Cleveland Cavaliers - Miami Heat | NBA_2026_CLEVELAND_CAVALIERS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 02:00 | NBA | New York Knicks - Atlanta Hawks | NBA_2026_NEW_YORK_KNICKS_ATLANTA_HAWKS | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 02:00 | NBA | Toronto Raptors - Denver Nuggets | NBA_2026_TORONTO_RAPTORS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 04:30 | NBA | Golden State Warriors - LA Clippers | NBA_2026_GOLDEN_STATE_WARRIORS_LA_CLIPPERS | https://ics.fixtur.es/v2/league/nba.ics
