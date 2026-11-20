@@ -2204,8 +2204,8 @@
     "event_id": "NBA_2026_MIAMI_HEAT_MILWAUKEE_BUCKS",
     "sport": "NBA",
     "title": "Miami Heat - Milwaukee Bucks",
-    "date_str": "2026-11-19",
-    "time_str": "03:00",
+    "date_str": "2027-02-05",
+    "time_str": "03:30",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -2213,9 +2213,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-20T08:01:58.718823+03:00: Tarih güncellendi: 2026-11-19 -> 2027-02-05",
+      "2026-11-20T08:01:58.718823+03:00: Başlama saati değişti: 03:00 -> 03:30"
     ]
   },
   "NBA_2026_ORLANDO_MAGIC_PHILADELPHIA_76ERS": {
@@ -2278,7 +2280,7 @@
     "event_id": "NBA_2026_DALLAS_MAVERICKS_GOLDEN_STATE_WARRIORS",
     "sport": "NBA",
     "title": "Dallas Mavericks - Golden State Warriors",
-    "date_str": "2026-11-19",
+    "date_str": "2027-03-03",
     "time_str": "04:00",
     "has_time": true,
     "tournament": "",
@@ -2287,17 +2289,18 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-15T13:44:50.267734+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
     "change_log": [
       "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
-      "2026-11-15T13:44:50.267734+03:00: Başlama saati değişti: 05:30 -> 04:00"
+      "2026-11-15T13:44:50.267734+03:00: Başlama saati değişti: 05:30 -> 04:00",
+      "2026-11-20T08:01:58.718823+03:00: Tarih güncellendi: 2026-11-19 -> 2027-03-03"
     ]
   },
   "NBA_2026_SACRAMENTO_KINGS_PHOENIX_SUNS": {
     "event_id": "NBA_2026_SACRAMENTO_KINGS_PHOENIX_SUNS",
     "sport": "NBA",
     "title": "Sacramento Kings - Phoenix Suns",
-    "date_str": "2026-11-19",
+    "date_str": "2027-02-07",
     "time_str": "06:00",
     "has_time": true,
     "tournament": "",
@@ -2306,16 +2309,17 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-20T08:01:58.718823+03:00: Tarih güncellendi: 2026-11-19 -> 2027-02-07"
     ]
   },
   "NBA_2026_LOS_ANGELES_LAKERS_UTAH_JAZZ": {
     "event_id": "NBA_2026_LOS_ANGELES_LAKERS_UTAH_JAZZ",
     "sport": "NBA",
     "title": "Los Angeles Lakers - Utah Jazz",
-    "date_str": "2026-11-19",
+    "date_str": "2026-11-24",
     "time_str": "06:00",
     "has_time": true,
     "tournament": "",
@@ -2324,9 +2328,10 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-20T08:01:58.718823+03:00: Tarih güncellendi: 2026-11-19 -> 2026-11-24"
     ]
   },
   "F1_2026_R21_FP1": {
@@ -16674,7 +16679,7 @@
     "sport": "UFC",
     "title": "UFC Fight Night: Bonfim vs Brady - Gabriel Bonfim vs Sean Brady",
     "date_str": "2027-01-24",
-    "time_str": "01:00",
+    "time_str": "04:00",
     "has_time": true,
     "tournament": "UFC",
     "session_or_stage": "Main Card",
@@ -16682,9 +16687,10 @@
     "status": "SCHEDULED",
     "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
     "first_seen": "2026-11-17T17:20:46.668876+03:00",
-    "last_updated": "2026-11-17T17:20:46.668876+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
     "change_log": [
-      "2026-11-17T17:20:46.668876+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+      "2026-11-17T17:20:46.668876+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics).",
+      "2026-11-20T08:01:58.718823+03:00: Başlama saati değişti: 01:00 -> 04:00"
     ]
   },
   "UFC_UFC_336_VAN_VS_KAPE_LANCE_GIBSON_JR_VS_MICHAEL_JOHNSON": {
@@ -16811,6 +16817,204 @@
     "last_updated": "2026-11-19T11:27:10.513618+03:00",
     "change_log": [
       "2026-11-19T11:27:10.513618+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_GEOFF_NEAL_VS_CHRIS_CURTIS": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_GEOFF_NEAL_VS_CHRIS_CURTIS",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Geoff Neal vs Chris Curtis",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_RYAN_SPANN_VS_LOUIE_SUTHERLAND": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_RYAN_SPANN_VS_LOUIE_SUTHERLAND",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Ryan Spann vs Louie Sutherland",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_KENNEDY_NZECHUKWU_VS_ELISHA_ELLISON": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_KENNEDY_NZECHUKWU_VS_ELISHA_ELLISON",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Kennedy Nzechukwu vs Elisha Ellison",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_GILBERT_URBINA_VS_ROBERT_VALENTIN": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_GILBERT_URBINA_VS_ROBERT_VALENTIN",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Gilbert Urbina vs Robert Valentin",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_ALDEN_CORIA_VS_MICHAEL_ALJAROUJ": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_ALDEN_CORIA_VS_MICHAEL_ALJAROUJ",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Alden Coria vs Michael Aljarouj",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_DIEGO_FERREIRA_VS_MARQUEL_MEDEROS": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_DIEGO_FERREIRA_VS_MARQUEL_MEDEROS",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Diego Ferreira vs MarQuel Mederos",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_MAGOMED_ZAYNUKOV_VS_PIERO_GUAYLUPO": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_MAGOMED_ZAYNUKOV_VS_PIERO_GUAYLUPO",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Magomed Zaynukov vs Piero Guaylupo",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_JOHN_GARZA_VS_TOSHIOMI_KAZAMA": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_JOHN_GARZA_VS_TOSHIOMI_KAZAMA",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - John Garza vs Toshiomi Kazama",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_STEVEN_ASPLUND_VS_GOKHAN_SARICAM": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_STEVEN_ASPLUND_VS_GOKHAN_SARICAM",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Steven Asplund vs Gokhan Saricam",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_SAM_HUGHES_VS_KAROLINA_KOWALKIEWICZ": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_RODRIGUEZ_VS_GARCIA_SAM_HUGHES_VS_KAROLINA_KOWALKIEWICZ",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Rodriguez vs Garcia - Sam Hughes vs Karolina Kowalkiewicz",
+    "date_str": "2027-01-17",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "American Airlines Center, Dallas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_SALKILLD_VS_SAINT_DENIS_JONATHAN_MICALLEF_VS_SAM_PATTERSON": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_SALKILLD_VS_SAINT_DENIS_JONATHAN_MICALLEF_VS_SAM_PATTERSON",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Salkilld vs Saint Denis - Jonathan Micallef vs Sam Patterson",
+    "date_str": "2027-02-07",
+    "time_str": "01:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "Afterpay Arena, Sydney Olympic Park, Australia",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-20T08:01:58.718823+03:00",
+    "last_updated": "2026-11-20T08:01:58.718823+03:00",
+    "change_log": [
+      "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
     ]
   }
 }
