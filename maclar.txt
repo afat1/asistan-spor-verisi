@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 21.11.2026 13:49 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 21.11.2026 16:59 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 806
 21.11.2026 03:30 | Formula 1 | Formula 1 - Las Vegas GP - 3. Antrenman | F1_2026_R21_FP3 | https://api.jolpi.ca/ergast/f1/2026.json
