@@ -17064,5 +17064,23 @@
     "change_log": [
       "2026-11-22T13:47:56.503414+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/galatasaray.ics)."
     ]
+  },
+  "FB_2026_KOCAELISPOR_FENERBAHCE_2_2": {
+    "event_id": "FB_2026_KOCAELISPOR_FENERBAHCE_2_2",
+    "sport": "Futbol",
+    "title": "Kocaelispor - Fenerbahçe (2-2)",
+    "date_str": "2026-11-21",
+    "time_str": "19:00",
+    "has_time": true,
+    "tournament": "Trendyol Süper Lig / Avrupa",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/fenerbahce.ics",
+    "first_seen": "2026-11-22T16:58:41.386789+03:00",
+    "last_updated": "2026-11-22T16:58:41.386789+03:00",
+    "change_log": [
+      "2026-11-22T16:58:41.386789+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/fenerbahce.ics)."
+    ]
   }
 }
