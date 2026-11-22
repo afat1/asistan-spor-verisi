@@ -2507,7 +2507,7 @@
     "event_id": "NBA_2026_CLEVELAND_CAVALIERS_INDIANA_PACERS",
     "sport": "NBA",
     "title": "Cleveland Cavaliers - Indiana Pacers",
-    "date_str": "2026-11-21",
+    "date_str": "2026-12-02",
     "time_str": "03:30",
     "has_time": true,
     "tournament": "",
@@ -2516,17 +2516,18 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-22T07:59:08.213938+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-22T07:59:08.213938+03:00: Tarih güncellendi: 2026-11-21 -> 2026-12-02"
     ]
   },
   "NBA_2026_OKLAHOMA_CITY_THUNDER_NEW_ORLEANS_PELICANS": {
     "event_id": "NBA_2026_OKLAHOMA_CITY_THUNDER_NEW_ORLEANS_PELICANS",
     "sport": "NBA",
     "title": "Oklahoma City Thunder - New Orleans Pelicans",
-    "date_str": "2026-11-21",
-    "time_str": "04:00",
+    "date_str": "2027-04-04",
+    "time_str": "00:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -2534,17 +2535,19 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-22T07:59:08.213938+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-22T07:59:08.213938+03:00: Tarih güncellendi: 2026-11-21 -> 2027-04-04",
+      "2026-11-22T07:59:08.213938+03:00: Başlama saati değişti: 04:00 -> 00:00"
     ]
   },
   "NBA_2026_UTAH_JAZZ_PHOENIX_SUNS": {
     "event_id": "NBA_2026_UTAH_JAZZ_PHOENIX_SUNS",
     "sport": "NBA",
     "title": "Utah Jazz - Phoenix Suns",
-    "date_str": "2026-11-21",
-    "time_str": "05:30",
+    "date_str": "2026-11-30",
+    "time_str": "01:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -2552,9 +2555,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-22T07:59:08.213938+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-22T07:59:08.213938+03:00: Tarih güncellendi: 2026-11-21 -> 2026-11-30",
+      "2026-11-22T07:59:08.213938+03:00: Başlama saati değişti: 05:30 -> 01:00"
     ]
   },
   "NBA_2026_DENVER_NUGGETS_HOUSTON_ROCKETS": {
@@ -2579,7 +2584,7 @@
     "event_id": "NBA_2026_LOS_ANGELES_LAKERS_SACRAMENTO_KINGS",
     "sport": "NBA",
     "title": "Los Angeles Lakers - Sacramento Kings",
-    "date_str": "2026-11-21",
+    "date_str": "2027-01-23",
     "time_str": "06:00",
     "has_time": true,
     "tournament": "",
@@ -2588,9 +2593,10 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-22T07:59:08.213938+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-22T07:59:08.213938+03:00: Tarih güncellendi: 2026-11-21 -> 2027-01-23"
     ]
   },
   "F1_2026_R21_QUALIFYING": {

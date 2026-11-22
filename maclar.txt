@@ -1,30 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 21.11.2026 20:43 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 22.11.2026 07:59 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 806
-21.11.2026 03:30 | Formula 1 | Formula 1 - Las Vegas GP - 3. Antrenman | F1_2026_R21_FP3 | https://api.jolpi.ca/ergast/f1/2026.json
-21.11.2026 03:30 | NBA | Cleveland Cavaliers - Indiana Pacers | NBA_2026_CLEVELAND_CAVALIERS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
-21.11.2026 04:00 | NBA | Oklahoma City Thunder - New Orleans Pelicans | NBA_2026_OKLAHOMA_CITY_THUNDER_NEW_ORLEANS_PELICANS | https://ics.fixtur.es/v2/league/nba.ics
-21.11.2026 05:30 | NBA | Utah Jazz - Phoenix Suns | NBA_2026_UTAH_JAZZ_PHOENIX_SUNS | https://ics.fixtur.es/v2/league/nba.ics
-21.11.2026 06:00 | NBA | Denver Nuggets - Houston Rockets | NBA_2026_DENVER_NUGGETS_HOUSTON_ROCKETS | https://ics.fixtur.es/v2/league/nba.ics
-21.11.2026 06:00 | NBA | Los Angeles Lakers - Sacramento Kings | NBA_2026_LOS_ANGELES_LAKERS_SACRAMENTO_KINGS | https://ics.fixtur.es/v2/league/nba.ics
-21.11.2026 07:00 | Formula 1 | Formula 1 - Las Vegas GP - Siralama Turlari | F1_2026_R21_QUALIFYING | https://api.jolpi.ca/ergast/f1/2026.json
-21.11.2026 13:10 | MotoGP | MotoGP - [MotoGP] FP2 #PortugueseGP | MGP_2026_MOTOGP_FP2_PORTUGUESEGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
-21.11.2026 13:50 | MotoGP | MotoGP - [MotoGP] Q1 #PortugueseGP | MGP_2026_MOTOGP_Q1_PORTUGUESEGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
-21.11.2026 14:15 | MotoGP | MotoGP - [MotoGP] Q2 #PortugueseGP | MGP_2026_MOTOGP_Q2_PORTUGUESEGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
-21.11.2026 16:00 | Futbol | Galatasaray - Samsunspor | FB_2026_GALATASARAY_SAMSUNSPOR | https://ics.fixtur.es/v2/galatasaray.ics
-21.11.2026 18:00 | MotoGP | MotoGP - [MotoGP] SPR #PortugueseGP | MGP_2026_MOTOGP_SPR_PORTUGUESEGP | https://nixxo.github.io/calendars/motogp/2026/MotoGP_2026_calendar.ics
-21.11.2026 19:00 | Futbol | Kocaelispor - Fenerbahçe | FB_2026_KOCAELISPOR_FENERBAHCE | https://ics.fixtur.es/v2/fenerbahce.ics
-21.11.2026 21:00 | NBA | Philadelphia 76ers - Milwaukee Bucks | NBA_2026_PHILADELPHIA_76ERS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Aleksandre Topuria vs Santiago Luna | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_ALEKSANDRE_TOPURIA_VS_SANTIAGO_LUNA | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Aljamain Sterling vs Kevin Vallejos | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_ALJAMAIN_STERLING_VS_KEVIN_VALLEJOS | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Amir Albazi vs Alessandro Costa | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_AMIR_ALBAZI_VS_ALESSANDRO_COSTA | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Asu Almabayev vs Kyoji Horiguchi | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_ASU_ALMABAYEV_VS_KYOJI_HORIGUCHI | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Dan Hooker vs Brian Ortega | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_DAN_HOOKER_VS_BRIAN_ORTEGA | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Jake Matthews vs Tahir Abdullayev | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_JAKE_MATTHEWS_VS_TAHIR_ABDULLAYEV | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Jared Cannonier vs Ikram Aliskerov | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_JARED_CANNONIER_VS_IKRAM_ALISKEROV | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Jiří Procházka vs Navajo Stirling | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_JI_PROCH_ZKA_VS_NAVAJO_STIRLING | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Kyoji Horiguchi vs Asu Almabayev | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_KYOJI_HORIGUCHI_VS_ASU_ALMABAYEV | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
-21.11.2026 21:00 | UFC | UFC Fight Night: Prochazka vs Stirling - Shamil Gaziev vs Tallison Teixeira | UFC_UFC_FIGHT_NIGHT_PROCHAZKA_VS_STIRLING_SHAMIL_GAZIEV_VS_TALLISON_TEIXEIRA | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+# Toplam Etkinlik Sayisi: 786
 22.11.2026 03:30 | NBA | New York Knicks - Portland Trail Blazers | NBA_2026_NEW_YORK_KNICKS_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
 22.11.2026 04:00 | NBA | Dallas Mavericks - LA Clippers | NBA_2026_DALLAS_MAVERICKS_LA_CLIPPERS | https://ics.fixtur.es/v2/league/nba.ics
 22.11.2026 04:00 | NBA | Minnesota Timberwolves - Memphis Grizzlies | NBA_2026_MINNESOTA_TIMBERWOLVES_MEMPHIS_GRIZZLIES | https://ics.fixtur.es/v2/league/nba.ics
@@ -104,6 +80,7 @@
 29.11.2026 23:30 | NBA | Cleveland Cavaliers - Miami Heat | NBA_2026_CLEVELAND_CAVALIERS_MIAMI_HEAT | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 00:00 | NBA | Memphis Grizzlies - Los Angeles Lakers | NBA_2026_MEMPHIS_GRIZZLIES_LOS_ANGELES_LAKERS | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 00:00 | NBA | San Antonio Spurs - Boston Celtics | NBA_2026_SAN_ANTONIO_SPURS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
+30.11.2026 01:00 | NBA | Utah Jazz - Phoenix Suns | NBA_2026_UTAH_JAZZ_PHOENIX_SUNS | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 02:00 | NBA | New York Knicks - Atlanta Hawks | NBA_2026_NEW_YORK_KNICKS_ATLANTA_HAWKS | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 02:00 | NBA | Toronto Raptors - Denver Nuggets | NBA_2026_TORONTO_RAPTORS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
 30.11.2026 04:30 | NBA | Golden State Warriors - LA Clippers | NBA_2026_GOLDEN_STATE_WARRIORS_LA_CLIPPERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -116,6 +93,7 @@
 01.12.2026 04:00 | NBA | Dallas Mavericks - Boston Celtics | NBA_2026_DALLAS_MAVERICKS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
 01.12.2026 04:00 | NBA | Milwaukee Bucks - San Antonio Spurs | NBA_2026_MILWAUKEE_BUCKS_SAN_ANTONIO_SPURS | https://ics.fixtur.es/v2/league/nba.ics
 02.12.2026 03:00 | NBA | Philadelphia 76ers - Memphis Grizzlies | NBA_2026_PHILADELPHIA_76ERS_MEMPHIS_GRIZZLIES | https://ics.fixtur.es/v2/league/nba.ics
+02.12.2026 03:30 | NBA | Cleveland Cavaliers - Indiana Pacers | NBA_2026_CLEVELAND_CAVALIERS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
 02.12.2026 03:30 | NBA | Miami Heat - Atlanta Hawks | NBA_2026_MIAMI_HEAT_ATLANTA_HAWKS | https://ics.fixtur.es/v2/league/nba.ics
 02.12.2026 04:00 | NBA | Chicago Bulls - New York Knicks | NBA_2026_CHICAGO_BULLS_NEW_YORK_KNICKS | https://ics.fixtur.es/v2/league/nba.ics
 02.12.2026 05:00 | NBA | Phoenix Suns - LA Clippers | NBA_2026_PHOENIX_SUNS_LA_CLIPPERS | https://ics.fixtur.es/v2/league/nba.ics
@@ -430,6 +408,7 @@
 23.01.2027 05:00 | NBA | Phoenix Suns - Utah Jazz | NBA_2026_PHOENIX_SUNS_UTAH_JAZZ | https://ics.fixtur.es/v2/league/nba.ics
 23.01.2027 05:30 | NBA | San Antonio Spurs - Minnesota Timberwolves | NBA_2026_SAN_ANTONIO_SPURS_MINNESOTA_TIMBERWOLVES | https://ics.fixtur.es/v2/league/nba.ics
 23.01.2027 06:00 | NBA | Golden State Warriors - Milwaukee Bucks | NBA_2026_GOLDEN_STATE_WARRIORS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
+23.01.2027 06:00 | NBA | Los Angeles Lakers - Sacramento Kings | NBA_2026_LOS_ANGELES_LAKERS_SACRAMENTO_KINGS | https://ics.fixtur.es/v2/league/nba.ics
 23.01.2027 06:30 | NBA | LA Clippers - Washington Wizards | NBA_2026_LA_CLIPPERS_WASHINGTON_WIZARDS | https://ics.fixtur.es/v2/league/nba.ics
 24.01.2027 01:00 | NBA | Chicago Bulls - Philadelphia 76ers | NBA_2026_CHICAGO_BULLS_PHILADELPHIA_76ERS | https://ics.fixtur.es/v2/league/nba.ics
 24.01.2027 03:00 | Futbol | Çorum - Galatasaray | FB_2026_CORUM_GALATASARAY | https://ics.fixtur.es/v2/galatasaray.ics
@@ -763,6 +742,7 @@
 03.04.2027 02:30 | NBA | Minnesota Timberwolves - Golden State Warriors | NBA_2026_MINNESOTA_TIMBERWOLVES_GOLDEN_STATE_WARRIORS | https://ics.fixtur.es/v2/league/nba.ics
 03.04.2027 03:00 | NBA | Dallas Mavericks - Sacramento Kings | NBA_2026_DALLAS_MAVERICKS_SACRAMENTO_KINGS | https://ics.fixtur.es/v2/league/nba.ics
 03.04.2027 05:00 | NBA | Phoenix Suns - Denver Nuggets | NBA_2026_PHOENIX_SUNS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
+04.04.2027 00:00 | NBA | Oklahoma City Thunder - New Orleans Pelicans | NBA_2026_OKLAHOMA_CITY_THUNDER_NEW_ORLEANS_PELICANS | https://ics.fixtur.es/v2/league/nba.ics
 04.04.2027 22:00 | NBA | Cleveland Cavaliers - Charlotte Hornets | NBA_2026_CLEVELAND_CAVALIERS_CHARLOTTE_HORNETS | https://ics.fixtur.es/v2/league/nba.ics
 04.04.2027 22:00 | NBA | Dallas Mavericks - Minnesota Timberwolves | NBA_2026_DALLAS_MAVERICKS_MINNESOTA_TIMBERWOLVES | https://ics.fixtur.es/v2/league/nba.ics
 04.04.2027 00:00 | Futbol | Beşiktaş - Kasımpaşa (Saat Belirsiz) | FB_2026_BESIKTAS_KASIMPASA | https://ics.fixtur.es/v2/besiktas.ics
