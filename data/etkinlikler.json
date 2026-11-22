@@ -17028,5 +17028,23 @@
     "change_log": [
       "2026-11-20T08:01:58.718823+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
     ]
+  },
+  "NBA_2026_PHILADELPHIA_76ERS_MILWAUKEE_BUCKS_132_129": {
+    "event_id": "NBA_2026_PHILADELPHIA_76ERS_MILWAUKEE_BUCKS_132_129",
+    "sport": "NBA",
+    "title": "Philadelphia 76ers - Milwaukee Bucks (132-129)",
+    "date_str": "2026-11-21",
+    "time_str": "21:00",
+    "has_time": true,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-22T11:14:39.273112+03:00",
+    "last_updated": "2026-11-22T11:14:39.273112+03:00",
+    "change_log": [
+      "2026-11-22T11:14:39.273112+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
   }
 }

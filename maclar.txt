@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 22.11.2026 07:59 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 22.11.2026 11:14 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 786
 22.11.2026 03:30 | NBA | New York Knicks - Portland Trail Blazers | NBA_2026_NEW_YORK_KNICKS_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
