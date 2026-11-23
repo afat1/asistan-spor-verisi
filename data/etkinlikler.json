@@ -17212,5 +17212,23 @@
     "change_log": [
       "2026-11-23T11:37:50.300717+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
     ]
+  },
+  "FB_2026_TRABZONSPOR_EYUPSPOR_1_0": {
+    "event_id": "FB_2026_TRABZONSPOR_EYUPSPOR_1_0",
+    "sport": "Futbol",
+    "title": "Trabzonspor - Eyüpspor (1-0)",
+    "date_str": "2026-11-22",
+    "time_str": "19:00",
+    "has_time": true,
+    "tournament": "Trendyol Süper Lig / Avrupa",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/trabzonspor.ics",
+    "first_seen": "2026-11-23T14:09:46.719213+03:00",
+    "last_updated": "2026-11-23T14:09:46.719213+03:00",
+    "change_log": [
+      "2026-11-23T14:09:46.719213+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/trabzonspor.ics)."
+    ]
   }
 }
