@@ -17158,5 +17158,59 @@
     "change_log": [
       "2026-11-22T20:44:16.132181+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
     ]
+  },
+  "NBA_2026_MIAMI_HEAT_OKLAHOMA_CITY_THUNDER_123_113": {
+    "event_id": "NBA_2026_MIAMI_HEAT_OKLAHOMA_CITY_THUNDER_123_113",
+    "sport": "NBA",
+    "title": "Miami Heat - Oklahoma City Thunder (123-113)",
+    "date_str": "2026-11-23",
+    "time_str": "02:00",
+    "has_time": true,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-23T11:37:50.300717+03:00",
+    "last_updated": "2026-11-23T11:37:50.300717+03:00",
+    "change_log": [
+      "2026-11-23T11:37:50.300717+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "NBA_2026_CHICAGO_BULLS_DENVER_NUGGETS_145_151": {
+    "event_id": "NBA_2026_CHICAGO_BULLS_DENVER_NUGGETS_145_151",
+    "sport": "NBA",
+    "title": "Chicago Bulls - Denver Nuggets (145-151)",
+    "date_str": "2026-11-23",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-23T11:37:50.300717+03:00",
+    "last_updated": "2026-11-23T11:37:50.300717+03:00",
+    "change_log": [
+      "2026-11-23T11:37:50.300717+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
+  },
+  "NBA_2026_UTAH_JAZZ_DALLAS_MAVERICKS_114_116": {
+    "event_id": "NBA_2026_UTAH_JAZZ_DALLAS_MAVERICKS_114_116",
+    "sport": "NBA",
+    "title": "Utah Jazz - Dallas Mavericks (114-116)",
+    "date_str": "2026-11-23",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-23T11:37:50.300717+03:00",
+    "last_updated": "2026-11-23T11:37:50.300717+03:00",
+    "change_log": [
+      "2026-11-23T11:37:50.300717+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
   }
 }
