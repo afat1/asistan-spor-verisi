@@ -2941,8 +2941,8 @@
     "event_id": "NBA_2026_MINNESOTA_TIMBERWOLVES_MEMPHIS_GRIZZLIES",
     "sport": "NBA",
     "title": "Minnesota Timberwolves - Memphis Grizzlies",
-    "date_str": "2026-11-22",
-    "time_str": "04:00",
+    "date_str": "2026-11-28",
+    "time_str": "04:30",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -2950,17 +2950,19 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-23T08:19:55.481576+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-23T08:19:55.481576+03:00: Tarih güncellendi: 2026-11-22 -> 2026-11-28",
+      "2026-11-23T08:19:55.481576+03:00: Başlama saati değişti: 04:00 -> 04:30"
     ]
   },
   "NBA_2026_DALLAS_MAVERICKS_LA_CLIPPERS": {
     "event_id": "NBA_2026_DALLAS_MAVERICKS_LA_CLIPPERS",
     "sport": "NBA",
     "title": "Dallas Mavericks - LA Clippers",
-    "date_str": "2026-11-22",
-    "time_str": "04:00",
+    "date_str": "2027-02-08",
+    "time_str": "00:30",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -2968,9 +2970,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-23T08:19:55.481576+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-23T08:19:55.481576+03:00: Tarih güncellendi: 2026-11-22 -> 2027-02-08",
+      "2026-11-23T08:19:55.481576+03:00: Başlama saati değişti: 04:00 -> 00:30"
     ]
   },
   "NBA_2026_SACRAMENTO_KINGS_BOSTON_CELTICS": {
