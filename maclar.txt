@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 23.11.2026 17:28 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 23.11.2026 21:00 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 786
 23.11.2026 02:00 | NBA | Miami Heat - Oklahoma City Thunder | NBA_2026_MIAMI_HEAT_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
