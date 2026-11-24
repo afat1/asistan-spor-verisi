@@ -1,4 +1,4 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 24.11.2026 11:31 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 24.11.2026 13:57 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
 # Toplam Etkinlik Sayisi: 781
 24.11.2026 03:00 | NBA | Philadelphia 76ers - Portland Trail Blazers | NBA_2026_PHILADELPHIA_76ERS_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
