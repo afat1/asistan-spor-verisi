@@ -3146,8 +3146,8 @@
     "event_id": "NBA_2026_NEW_YORK_KNICKS_INDIANA_PACERS",
     "sport": "NBA",
     "title": "New York Knicks - Indiana Pacers",
-    "date_str": "2026-11-23",
-    "time_str": "04:00",
+    "date_str": "2027-04-12",
+    "time_str": "01:00",
     "has_time": true,
     "tournament": "",
     "session_or_stage": "",
@@ -3155,9 +3155,11 @@
     "status": "SCHEDULED",
     "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
     "first_seen": "2026-11-05T17:59:33.308739+03:00",
-    "last_updated": "2026-11-05T17:59:33.308739+03:00",
+    "last_updated": "2026-11-24T08:08:32.997858+03:00",
     "change_log": [
-      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı."
+      "Başlangıç aktarımı: Mevcut fikstürden ana kayıtlara alındı.",
+      "2026-11-24T08:08:32.997858+03:00: Tarih güncellendi: 2026-11-23 -> 2027-04-12",
+      "2026-11-24T08:08:32.997858+03:00: Başlama saati değişti: 04:00 -> 01:00"
     ]
   },
   "NBA_2026_GOLDEN_STATE_WARRIORS_BOSTON_CELTICS": {
@@ -17229,6 +17231,24 @@
     "last_updated": "2026-11-23T14:09:46.719213+03:00",
     "change_log": [
       "2026-11-23T14:09:46.719213+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/trabzonspor.ics)."
+    ]
+  },
+  "UFC_UFC_FIGHT_NIGHT_BRADY_VS_BONFIM_SEAN_BRADY_VS_GABRIEL_BONFIM": {
+    "event_id": "UFC_UFC_FIGHT_NIGHT_BRADY_VS_BONFIM_SEAN_BRADY_VS_GABRIEL_BONFIM",
+    "sport": "UFC",
+    "title": "UFC Fight Night: Brady vs Bonfim - Sean Brady vs Gabriel Bonfim",
+    "date_str": "2027-01-24",
+    "time_str": "04:00",
+    "has_time": true,
+    "tournament": "UFC",
+    "session_or_stage": "Main Card",
+    "venue": "Meta APEX, Las Vegas, United States",
+    "status": "SCHEDULED",
+    "source_url": "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
+    "first_seen": "2026-11-24T08:08:32.997858+03:00",
+    "last_updated": "2026-11-24T08:08:32.997858+03:00",
+    "change_log": [
+      "2026-11-24T08:08:32.997858+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
     ]
   }
 }

@@ -1,14 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 23.11.2026 21:00 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 24.11.2026 08:08 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 786
-23.11.2026 02:00 | NBA | Miami Heat - Oklahoma City Thunder | NBA_2026_MIAMI_HEAT_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
-23.11.2026 02:00 | NBA | Miami Heat - Oklahoma City Thunder (123-113) | NBA_2026_MIAMI_HEAT_OKLAHOMA_CITY_THUNDER_123_113 | https://ics.fixtur.es/v2/league/nba.ics
-23.11.2026 03:00 | NBA | Chicago Bulls - Denver Nuggets | NBA_2026_CHICAGO_BULLS_DENVER_NUGGETS | https://ics.fixtur.es/v2/league/nba.ics
-23.11.2026 03:00 | NBA | Utah Jazz - Dallas Mavericks | NBA_2026_UTAH_JAZZ_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
-23.11.2026 04:00 | NBA | New York Knicks - Indiana Pacers | NBA_2026_NEW_YORK_KNICKS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
-23.11.2026 04:30 | NBA | Golden State Warriors - Boston Celtics | NBA_2026_GOLDEN_STATE_WARRIORS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
-23.11.2026 00:00 | NBA | Chicago Bulls - Denver Nuggets (145-151) (Saat Belirsiz) | NBA_2026_CHICAGO_BULLS_DENVER_NUGGETS_145_151 | https://ics.fixtur.es/v2/league/nba.ics
-23.11.2026 00:00 | NBA | Utah Jazz - Dallas Mavericks (114-116) (Saat Belirsiz) | NBA_2026_UTAH_JAZZ_DALLAS_MAVERICKS_114_116 | https://ics.fixtur.es/v2/league/nba.ics
+# Toplam Etkinlik Sayisi: 780
 24.11.2026 03:00 | NBA | Philadelphia 76ers - Portland Trail Blazers | NBA_2026_PHILADELPHIA_76ERS_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
 24.11.2026 03:30 | NBA | Indiana Pacers - Oklahoma City Thunder | NBA_2026_INDIANA_PACERS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
 24.11.2026 03:30 | NBA | Minnesota Timberwolves - Brooklyn Nets | NBA_2026_MINNESOTA_TIMBERWOLVES_BROOKLYN_NETS | https://ics.fixtur.es/v2/league/nba.ics
@@ -410,6 +402,7 @@
 24.01.2027 04:00 | NBA | Dallas Mavericks - Cleveland Cavaliers | NBA_2026_DALLAS_MAVERICKS_CLEVELAND_CAVALIERS | https://ics.fixtur.es/v2/league/nba.ics
 24.01.2027 04:00 | UFC | UFC Fight Night: Bonfim vs Brady | UFC_UFC_FIGHT_NIGHT_BONFIM_VS_BRADY | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
 24.01.2027 04:00 | UFC | UFC Fight Night: Bonfim vs Brady - Gabriel Bonfim vs Sean Brady | UFC_UFC_FIGHT_NIGHT_BONFIM_VS_BRADY_GABRIEL_BONFIM_VS_SEAN_BRADY | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
+24.01.2027 04:00 | UFC | UFC Fight Night: Brady vs Bonfim - Sean Brady vs Gabriel Bonfim | UFC_UFC_FIGHT_NIGHT_BRADY_VS_BONFIM_SEAN_BRADY_VS_GABRIEL_BONFIM | https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics
 24.01.2027 05:00 | NBA | Denver Nuggets - Milwaukee Bucks | NBA_2026_DENVER_NUGGETS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
 24.01.2027 00:00 | Futbol | Eyüpspor - Beşiktaş (Saat Belirsiz) | FB_2026_EYUPSPOR_BESIKTAS | https://ics.fixtur.es/v2/besiktas.ics
 24.01.2027 00:00 | Futbol | Fenerbahçe - Genclerbirligi (Saat Belirsiz) | FB_2026_FENERBAHCE_GENCLERBIRLIGI | https://ics.fixtur.es/v2/fenerbahce.ics
@@ -764,6 +757,7 @@
 11.04.2027 00:00 | Futbol | Genclerbirligi - Beşiktaş (Saat Belirsiz) | FB_2026_GENCLERBIRLIGI_BESIKTAS | https://ics.fixtur.es/v2/besiktas.ics
 11.04.2027 00:00 | Futbol | Trabzonspor - Alanyaspor (Saat Belirsiz) | FB_2026_TRABZONSPOR_ALANYASPOR | https://ics.fixtur.es/v2/trabzonspor.ics
 12.04.2027 01:00 | NBA | Boston Celtics - Milwaukee Bucks | NBA_2026_BOSTON_CELTICS_MILWAUKEE_BUCKS | https://ics.fixtur.es/v2/league/nba.ics
+12.04.2027 01:00 | NBA | New York Knicks - Indiana Pacers | NBA_2026_NEW_YORK_KNICKS_INDIANA_PACERS | https://ics.fixtur.es/v2/league/nba.ics
 12.04.2027 03:30 | NBA | LA Clippers - Sacramento Kings | NBA_2026_LA_CLIPPERS_SACRAMENTO_KINGS | https://ics.fixtur.es/v2/league/nba.ics
 18.04.2027 00:00 | Futbol | Beşiktaş - Konyaspor (Saat Belirsiz) | FB_2026_BESIKTAS_KONYASPOR | https://ics.fixtur.es/v2/besiktas.ics
 18.04.2027 00:00 | Futbol | Eyüpspor - Trabzonspor (Saat Belirsiz) | FB_2026_EYUPSPOR_TRABZONSPOR | https://ics.fixtur.es/v2/trabzonspor.ics
