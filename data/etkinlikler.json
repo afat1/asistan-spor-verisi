@@ -17250,5 +17250,23 @@
     "change_log": [
       "2026-11-24T08:08:32.997858+03:00: Etkinlik ilk kez kaydedildi (https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics)."
     ]
+  },
+  "NBA_2026_PHILADELPHIA_76ERS_PORTLAND_TRAIL_BLAZERS_111_128": {
+    "event_id": "NBA_2026_PHILADELPHIA_76ERS_PORTLAND_TRAIL_BLAZERS_111_128",
+    "sport": "NBA",
+    "title": "Philadelphia 76ers - Portland Trail Blazers (111-128)",
+    "date_str": "2026-11-24",
+    "time_str": null,
+    "has_time": false,
+    "tournament": "NBA",
+    "session_or_stage": "",
+    "venue": "",
+    "status": "SCHEDULED",
+    "source_url": "https://ics.fixtur.es/v2/league/nba.ics",
+    "first_seen": "2026-11-24T11:31:13.182831+03:00",
+    "last_updated": "2026-11-24T11:31:13.182831+03:00",
+    "change_log": [
+      "2026-11-24T11:31:13.182831+03:00: Etkinlik ilk kez kaydedildi (https://ics.fixtur.es/v2/league/nba.ics)."
+    ]
   }
 }

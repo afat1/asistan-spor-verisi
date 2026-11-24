@@ -1,6 +1,6 @@
-# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 24.11.2026 08:08 TR)
+# ASISTAN SPOR ETKINLIKLERI (Guncelleme: 24.11.2026 11:31 TR)
 # Format: GG.AA.YYYY SS:DD | Branş | Karşılaşma/Seans | eventId | Kaynak URL
-# Toplam Etkinlik Sayisi: 780
+# Toplam Etkinlik Sayisi: 781
 24.11.2026 03:00 | NBA | Philadelphia 76ers - Portland Trail Blazers | NBA_2026_PHILADELPHIA_76ERS_PORTLAND_TRAIL_BLAZERS | https://ics.fixtur.es/v2/league/nba.ics
 24.11.2026 03:30 | NBA | Indiana Pacers - Oklahoma City Thunder | NBA_2026_INDIANA_PACERS_OKLAHOMA_CITY_THUNDER | https://ics.fixtur.es/v2/league/nba.ics
 24.11.2026 03:30 | NBA | Minnesota Timberwolves - Brooklyn Nets | NBA_2026_MINNESOTA_TIMBERWOLVES_BROOKLYN_NETS | https://ics.fixtur.es/v2/league/nba.ics
@@ -14,6 +14,7 @@
 24.11.2026 23:00 | Futbol | Feyenoord - FC Porto [CL] | FB_2026_FEYENOORD_FC_PORTO_CL | https://ics.fixtur.es/v2/league/champions-league.ics
 24.11.2026 23:00 | Futbol | Manchester City - Napoli [CL] | FB_2026_MANCHESTER_CITY_NAPOLI_CL | https://ics.fixtur.es/v2/league/champions-league.ics
 24.11.2026 23:00 | Futbol | Real Madrid - PSV [CL] | FB_2026_REAL_MADRID_PSV_CL | https://ics.fixtur.es/v2/league/champions-league.ics
+24.11.2026 00:00 | NBA | Philadelphia 76ers - Portland Trail Blazers (111-128) (Saat Belirsiz) | NBA_2026_PHILADELPHIA_76ERS_PORTLAND_TRAIL_BLAZERS_111_128 | https://ics.fixtur.es/v2/league/nba.ics
 25.11.2026 04:00 | NBA | Washington Wizards - Boston Celtics | NBA_2026_WASHINGTON_WIZARDS_BOSTON_CELTICS | https://ics.fixtur.es/v2/league/nba.ics
 25.11.2026 06:00 | NBA | Denver Nuggets - Dallas Mavericks | NBA_2026_DENVER_NUGGETS_DALLAS_MAVERICKS | https://ics.fixtur.es/v2/league/nba.ics
 25.11.2026 20:45 | Futbol | Sabah - FC Barcelona [CL] | FB_2026_SABAH_FC_BARCELONA_CL | https://ics.fixtur.es/v2/league/champions-league.ics
