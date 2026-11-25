@@ -12,7 +12,7 @@ from scripts.veri_topla import TURKEY_TZ, http_get
 WBA = "https://www.wbaboxing.com/wba-fights-schedule"
 WBO = "https://wboboxing.com/"
 TURKISH_MMA = "https://mmafederasyonu.org.tr/mma/Organizasyonlar?turu=pro"
-DATA = Path(__file__).resolve().parents[1] / "data"
+from scripts.firebase_config import editorial
 PRICE_BOUT = "BOXING_lauren-price-vs-michaela-kotaskova"
 PRICE_SOURCE = "https://www.boxxer.com/events/lauren-price-vs-michaela-kotaskova-20-november-2026-utilita-arena-cardiff/"
 
@@ -109,7 +109,7 @@ def fetch_wbo(now):
 
 
 def fetch_featured(now):
-    records = json.loads((DATA / "featured_combat_events.json").read_text(encoding="utf-8"))
+    records = editorial("featured_combat_events")
     fixtures = []
     for record in records:
         stamp = record["start"]

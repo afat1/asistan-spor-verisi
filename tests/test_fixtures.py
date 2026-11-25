@@ -14,6 +14,11 @@ from scripts.veri_topla import TURKEY_TZ
 class FixtureTests(unittest.TestCase):
     now = datetime(2026, 11, 9, tzinfo=TURKEY_TZ)
 
+    def setUp(self):
+        self.editorial_patch = patch("scripts.publish_fixtures.editorial", return_value=["BOXING_REVIEWED_TEST"])
+        self.editorial_patch.start()
+        self.addCleanup(self.editorial_patch.stop)
+
     def test_midnight_utc_is_a_confirmed_start_and_belongs_to_turkish_day(self):
         start, confirmed = calendar_start("DTSTART:20261110T000000Z")
         self.assertEqual((start.day, start.hour, confirmed), (10, 3, True))
@@ -112,8 +117,8 @@ END:VCALENDAR"""
 
     def test_snapshot_filters_unreviewed_boxing_even_from_cache_but_keeps_ufc(self):
         rows = [
-            {"id": "BOXING_JASSIEL_AMADOR_VS_KENSHIRO_TERAJI", "start": 1, "sport": "Boks"},
-            {"id": "BOXING_GABRIELA_FUNDORA_VS_JASMINA_ZAPOTOCZNA", "start": 2, "sport": "Boks"},
+            {"id": "BOXING_REVIEWED_TEST", "start": 1, "sport": "Boks"},
+            {"id": "BOXING_UNREVIEWED_TEST", "start": 2, "sport": "Boks"},
             {"id": "UFC_WOMENS_BOUT", "start": 3, "sport": "UFC"},
         ]
         result = snapshot({"cached": {"checked": 2, "ok": 1, "events": rows}})

@@ -857,6 +857,7 @@ def export_maclar_txt(maclar_path: str, master_store: dict[str, MasterEvent], no
 # ==============================================================================
 
 def main():
+    raise RuntimeError("Dosya tabanlı yayın kaldırıldı. Firebase için scripts.publish_fixtures kullanın.")
     now_tr = datetime.now(TURKEY_TZ)
     print("=" * 65)
     print(f"SPOR ETKİNLİKLERİ YÖNETİM SİSTEMİ ÇALIŞTI ({now_tr.strftime('%d.%m.%Y %H:%M')} TSİ)")

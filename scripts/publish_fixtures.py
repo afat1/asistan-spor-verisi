@@ -15,7 +15,7 @@ from zoneinfo import ZoneInfo
 
 from scripts import veri_topla as legacy
 from scripts.boxing_fixtures import fetch_boxing
-from scripts.combat_fixtures import DATA as COMBAT_DATA
+from scripts.firebase_config import configure, editorial
 from scripts.combat_fixtures import fetch_featured, fetch_turkish_mma, fetch_wba, fetch_wbo
 from scripts.denizli_fixtures import fetch_football, fetch_municipal, fetch_tickets, fetch_volleyball, name_key
 from scripts.national_fixtures import fetch_national_basketball, fetch_national_volleyball
@@ -235,7 +235,7 @@ def collect(now, previous, jobs):
 
 
 def snapshot(groups):
-    reviewed_men = set(json.loads((COMBAT_DATA / "reviewed_mens_boxing.json").read_text(encoding="utf-8")))
+    reviewed_men = set(editorial("reviewed_mens_boxing"))
     merged = {}
     for source in groups.values():
         for row in source["events"]:
@@ -304,6 +304,7 @@ def main():
     now = datetime.now(legacy.TURKEY_TZ)
     project = os.environ.get("FIREBASE_PROJECT_ID", "")
     token = os.environ.get("FIRESTORE_ACCESS_TOKEN", "")
+    configure(read_firestore(project, token, "sports_internal/editorial"))
     previous = {} if args.preview else read_firestore(project, token, "sports_internal/sources")
     groups = collect(now, previous, sources(now))
     result = snapshot(groups)

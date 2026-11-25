@@ -1,4 +1,6 @@
 ﻿*.tmp
 __pycache__/
 *.pyc
+data/
+maclar.txt
 

@@ -9,7 +9,7 @@ from scripts.denizli_fixtures import event, name_key, near, text
 from scripts.veri_topla import TURKEY_TZ, http_get
 
 WBC = "https://wbcboxing.com/en/events/"
-CONFIRMATIONS = Path(__file__).resolve().parents[1] / "data" / "boxing_main_events.json"
+from scripts.firebase_config import editorial
 
 
 def parse_wbc(page, now, confirmations):
@@ -42,5 +42,5 @@ def parse_wbc(page, now, confirmations):
 
 
 def fetch_boxing(now):
-    confirmations = json.loads(CONFIRMATIONS.read_text(encoding="utf-8"))
+    confirmations = editorial("boxing_main_events")
     return parse_wbc(http_get(WBC), now, confirmations)

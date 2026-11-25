@@ -6,6 +6,14 @@
 
 Ortak kataloglar `app_content`, ortak küçük görseller `public_media` altında tutulur. Kişisel veri sürümleri `users/{uid}/personal_versions`, etkin sürüm `users/{uid}/state/current` altındadır. Yayıncı kişisel veri üretmez; Android kişisel içeriği doğrulanmış hesabıyla şifreli olarak eşitler.
 
+## Güncel depo temizliği
+
+Spor kayıtları, editoryal boks/seçki listeleri ve maclar.txt güncel Git ağacından kaldırılmıştır. Son dosyalar Firebase `source_archives/github_final_events` ve `source_archives/github_final_text` altında geri okunarak doğrulanmıştır. Editoryal kayıtların tek kaynağı `sports_internal/editorial` belgesidir; toplayıcı artık yerel JSON veri dosyası okuyamaz. Eski dosya üreten komut kapatılmıştır. Testler sentetik verilerle çalışır.
+
+Git geçmişi yeniden yazılmadığından önceki commit'ler eski veri dosyalarını içerebilir. Bunlar uygulama veya yayıncı tarafından okunmaz. Geçmişin ve GitHub önbelleklerinin tamamen silinmesi ayrıca ele alınmalıdır.
+
+Android yalnız Firebase okur. Otomatik toplayıcı henüz GitHub Actions sunucusunda çalışmaktadır; Firebase Spark zamanlanmış sunucu kodu çalıştırmaz. Bu çalışma için bilgisayara görev kurulmadı. GitHub Actions'ın kaldırılması, sürekli çalışacak başka bir sunucuya geçiş kararı beklemektedir. UFC/MotoGP toplayıcılarının üçüncü taraf GitHub takvim kaynakları da ayrıca değiştirilmelidir; doğrudan Android bağlantısı değildir.
+
 Android Asistan, fikstürü Firebase Spark planındaki Firestore'dan alır. Bu depo
 toplayıcı kodunu ve tarihsel GitHub fikstürünü içerir. Yeni akış güncel fikstürü
 ve sağlayıcılardan gelen yanıtları açık depoya yazmaz.
