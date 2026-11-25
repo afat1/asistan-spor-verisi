@@ -197,6 +197,7 @@ class MasterEvent:
         self.first_seen = first_seen
         self.last_updated = last_updated
         self.change_log = change_log if change_log is not None else []
+        self.main_event: tuple[str, ...] = ()
 
     def to_dict(self) -> dict:
         return {

@@ -1,39 +1,55 @@
-name: Spor Etkinlikleri Otomatik Guncelleme
+name: Spor fikstürünü güncelle
 
 on:
+  push:
+    branches: [main]
+    paths: ['scripts/**', 'tests/**', 'data/**', '.github/workflows/spor_etkinlikleri_guncelle.yml']
   schedule:
-    # Turkiye Saati (UTC+3): 07:10, 10:10, 13:10, 16:10, 20:10
-    # UTC Karsiligi: 04:10, 07:10, 10:10, 13:10, 17:10
-    - cron: '10 4,7,10,13,17 * * *'
+    # Türkiye saatiyle 01.10'dan başlayarak üç saatte bir.
+    - cron: '10 1,4,7,10,13,16,19,22 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  id-token: write
+
+concurrency:
+  group: asistan-sports-fixtures
+  cancel-in-progress: false
 
 jobs:
   guncelle:
+    # Standard GitHub-hosted runners are free for public repositories.
+    if: github.event.repository.private == false
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
-      - name: Depoyu Klonla
-        uses: actions/checkout@v4
-
-      - name: Python 3.11 Kurulumu
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
         with:
-          python-version: '3.11'
+          persist-credentials: false
 
-      - name: Spor Etkinliklerini Topla
-        run: python scripts/veri_topla.py
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: Etkinlik Kayitlari ve maclar.txt Degisikligini Kontrol Et ve Pushla
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f maclar.txt data/etkinlikler.json
-          if git diff --staged --quiet; then
-            echo "Etkinlik kayıtlarında ve maclar.txt dosyasında değişiklik yok. Commit atılmadı."
-          else
-            git commit -m "chore(spor): etkinlik kayıtları ve maclar.txt güncellendi [skip ci]"
-            git push
-          fi
+      - name: Fikstür doğrulama testleri
+        run: python -m unittest discover -s tests
+
+      - name: Firebase için kısa ömürlü kimlik al
+        id: google
+        uses: google-github-actions/auth@v3
+        with:
+          project_id: asistan-8a2cf
+          workload_identity_provider: projects/1056417818765/locations/global/workloadIdentityPools/asistan-github/providers/github
+          service_account: asistan-sports-publisher@asistan-8a2cf.iam.gserviceaccount.com
+          token_format: access_token
+          access_token_lifetime: 600s
+          create_credentials_file: false
+
+      - name: Firebase'e fikstürü yayımla
+        env:
+          FIREBASE_PROJECT_ID: asistan-8a2cf
+          FIRESTORE_ACCESS_TOKEN: ${{ steps.google.outputs.access_token }}
+        run: python -m scripts.publish_fixtures
+
 
