@@ -25,7 +25,7 @@ from datetime import datetime, timezone, timedelta
 # Türkiye Standart Saati (UTC+3, kalıcı yaz saati)
 TURKEY_TZ = timezone(timedelta(hours=3))
 
-USER_AGENT = "AsistanApp/1.0 (Open-Source Personal Assistant; github.com/asistan)"
+USER_AGENT = "Asistan/1.0 public sports calendar"
 HTTP_TIMEOUT = 15
 
 
@@ -386,50 +386,9 @@ def fetch_f1_events(now_tr: datetime) -> list[MasterEvent]:
         raise RuntimeError(f"F1 verisi toplanamadı (Jolpica: {e}, ICS: {e2})")
 
 
-def fetch_motogp_events(now_tr: datetime) -> list[MasterEvent]:
-    """MotoGP seanslarını Nixxo iCal takviminden çeker."""
-    events = []
-    current_year = now_tr.year
-    urls = [
-        f"https://nixxo.github.io/calendars/motogp/{current_year}/MotoGP_{current_year}_calendar.ics",
-        f"https://nixxo.github.io/calendars/motogp/{current_year - 1}/MotoGP_{current_year - 1}_calendar.ics"
-    ]
-
-    last_error = None
-    for ics_url in urls:
-        try:
-            ics_text = http_get(ics_url)
-            vevents = parse_ics_events(ics_text)
-            for v in vevents:
-                summary = v.get("SUMMARY", "")
-                venue = v.get("LOCATION", "")
-                raw_dt = v.get("_DTSTART_RAW", v.get("DTSTART", ""))
-                dt, has_time = parse_ics_datetime(raw_dt)
-                if not dt or dt < now_tr - timedelta(days=1):
-                    continue
-
-                title = f"MotoGP - {summary}" if not summary.startswith("MotoGP") else summary
-                event_id = f"MGP_{current_year}_{slugify(summary)}"
-                events.append(MasterEvent(
-                    event_id=event_id,
-                    sport="MotoGP",
-                    title=title,
-                    date_str=dt.strftime("%Y-%m-%d"),
-                    time_str=dt.strftime("%H:%M") if has_time else None,
-                    has_time=has_time,
-                    tournament="MotoGP",
-                    session_or_stage=summary,
-                    venue=venue,
-                    source_url=ics_url
-                ))
-
-            if events:
-                return events
-        except Exception as e:
-            last_error = e
-            continue
-
-    raise RuntimeError(f"MotoGP takvimi alınamadı: {last_error}")
+def fetch_motogp_events(now_tr):
+    from scripts.official_calendars import fetch_motogp
+    return fetch_motogp(now_tr)
 
 
 def fetch_football_events(now_tr: datetime) -> list[MasterEvent]:
@@ -605,69 +564,10 @@ def parse_ufc_main_card_bouts(description: str, event_title: str) -> list[str]:
     return bouts
 
 
-def fetch_ufc_events(now_tr: datetime) -> list[MasterEvent]:
-    """UFC etkinliklerini açık takvimden çeker, ana kart eşleşmelerini listeler."""
-    events = []
-    ufc_url = "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics"
+def fetch_ufc_events(now_tr):
+    from scripts.official_calendars import fetch_ufc
+    return fetch_ufc(now_tr)
 
-    try:
-        ics_text = http_get(ufc_url)
-        vevents = parse_ics_events(ics_text)
-        for v in vevents:
-            summary = v.get("SUMMARY", "").strip()
-            venue = v.get("LOCATION", "")
-            raw_dt = v.get("_DTSTART_RAW", v.get("DTSTART", ""))
-            dt, has_time = parse_ics_datetime(raw_dt)
-            if not dt or dt < now_tr - timedelta(days=1):
-                continue
-
-            card_prefix = summary if summary.startswith("UFC") else f"UFC - {summary}"
-            card_slug = slugify(summary)
-            desc = v.get("DESCRIPTION", "")
-            bouts = parse_ufc_main_card_bouts(desc, summary)
-
-            date_str = dt.strftime("%Y-%m-%d")
-            time_str = dt.strftime("%H:%M") if has_time else None
-
-            if bouts:
-                for bout in bouts:
-                    bout_title = f"{card_prefix} - {bout}"
-                    bout_id = f"UFC_{card_slug}_{slugify(bout)}"
-                    events.append(MasterEvent(
-                        event_id=bout_id,
-                        sport="UFC",
-                        title=bout_title,
-                        date_str=date_str,
-                        time_str=time_str,
-                        has_time=has_time,
-                        tournament="UFC",
-                        session_or_stage="Main Card",
-                        venue=venue,
-                        source_url=ufc_url
-                    ))
-            else:
-                event_id = f"UFC_{card_slug}"
-                events.append(MasterEvent(
-                    event_id=event_id,
-                    sport="UFC",
-                    title=card_prefix,
-                    date_str=date_str,
-                    time_str=time_str,
-                    has_time=has_time,
-                    tournament="UFC",
-                    venue=venue,
-                    source_url=ufc_url
-                ))
-
-        return events
-
-    except Exception as e:
-        raise RuntimeError(f"UFC takvimi alınamadı ({ufc_url}): {e}")
-
-
-# ==============================================================================
-# KENDİ ETKİNLİK SİSTEMİMİZ: DEPOLAMA VE DEĞİŞİKLİK MUTABAKATI
-# ==============================================================================
 
 def load_master_store(json_path: str, maclar_path: str, now_tr: datetime) -> dict[str, MasterEvent]:
     """

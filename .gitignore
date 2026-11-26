@@ -3,4 +3,8 @@ __pycache__/
 *.pyc
 data/
 maclar.txt
+venv/
+.env*
+gha-creds-*.json
+*-firebase-adminsdk-*.json
 

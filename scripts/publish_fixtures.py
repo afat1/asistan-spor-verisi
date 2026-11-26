@@ -16,6 +16,7 @@ from zoneinfo import ZoneInfo
 from scripts import veri_topla as legacy
 from scripts.boxing_fixtures import fetch_boxing
 from scripts.firebase_config import configure, editorial
+from scripts.official_calendars import fetch_ufc, fetch_motogp
 from scripts.combat_fixtures import fetch_featured, fetch_turkish_mma, fetch_wba, fetch_wbo
 from scripts.denizli_fixtures import fetch_football, fetch_municipal, fetch_tickets, fetch_volleyball, name_key
 from scripts.national_fixtures import fetch_national_basketball, fetch_national_volleyball
@@ -180,11 +181,10 @@ def sources(now):
         "combat_turkey_registry": partial(fetch_turkish_mma, now),
         "euroleague": partial(fetch_euroleague, now),
         "f1": partial(legacy.fetch_f1_events, now),
-        "motogp": partial(legacy.fetch_motogp_events, now),
+        "motogp": partial(fetch_motogp, now),
         "nba": partial(calendar_events, "https://ics.fixtur.es/v2/league/nba.ics",
                        now, "NBA", "NBA", lambda title: matches_team(title, NBA_CLUBS), 10),
-        "ufc": partial(calendar_events, "https://raw.githubusercontent.com/clarencechaan/ufc-cal/ics/UFC.ics",
-                       now, "UFC", "UFC", days=120),
+        "ufc": partial(fetch_ufc, now),
     })
     return jobs
 
@@ -239,6 +239,11 @@ def snapshot(groups):
     merged = {}
     for source in groups.values():
         for row in source["events"]:
+            row=dict(row)
+            if row.get('sport')=='MotoGP' and 'github' in row.get('url','').lower():
+                row['url']='https://www.motogp.com/en/calendar'
+            if row.get('sport')=='UFC' and 'github' in row.get('url','').lower():
+                row['url']='https://www.ufc.com/events'
             identity = row["id"]
             if row.get("sport") == "Boks" and identity not in reviewed_men:
                 continue
@@ -297,24 +302,29 @@ def publish(project, token, groups, result):
         response.read()
 
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--preview", type=Path)
-    args = parser.parse_args()
+def run_update(project,token,preview=None):
     now = datetime.now(legacy.TURKEY_TZ)
-    project = os.environ.get("FIREBASE_PROJECT_ID", "")
-    token = os.environ.get("FIRESTORE_ACCESS_TOKEN", "")
     configure(read_firestore(project, token, "sports_internal/editorial"))
-    previous = {} if args.preview else read_firestore(project, token, "sports_internal/sources")
+    previous = {} if preview else read_firestore(project, token, "sports_internal/sources")
     groups = collect(now, previous, sources(now))
     result = snapshot(groups)
     if not any(source["checked"] == source["ok"] for source in groups.values()) or not result["events"]:
         raise RuntimeError("No usable fixture snapshot; previous publication retained")
-    if args.preview:
-        args.preview.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    if preview:
+        preview.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
     else:
         publish(project, token, groups, result)
     print(f"Fixture snapshot: {len(result['events'])} events")
+    return result
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--preview", type=Path)
+    args = parser.parse_args()
+    project = os.environ.get("FIREBASE_PROJECT_ID", "")
+    token = os.environ.get("FIRESTORE_ACCESS_TOKEN", "")
+    run_update(project,token,args.preview)
 
 
 if __name__ == "__main__":

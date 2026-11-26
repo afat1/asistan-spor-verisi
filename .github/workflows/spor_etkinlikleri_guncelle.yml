@@ -1,24 +1,20 @@
-name: Spor fikstürünü güncelle
+name: Spor kodu testleri
 
 on:
   push:
     branches: [main]
-    paths: ['scripts/**', 'tests/**', 'data/**', '.github/workflows/spor_etkinlikleri_guncelle.yml']
-  schedule:
-    # Türkiye saatiyle 01.10'dan başlayarak üç saatte bir.
-    - cron: '10 1,4,7,10,13,16,19,22 * * *'
+    paths: ['scripts/**', 'tests/**', 'main.py', 'requirements.txt', '.github/workflows/spor_etkinlikleri_guncelle.yml']
   workflow_dispatch:
 
 permissions:
   contents: read
-  id-token: write
 
 concurrency:
-  group: asistan-sports-fixtures
+  group: asistan-sports-code-tests
   cancel-in-progress: false
 
 jobs:
-  guncelle:
+  test:
     # Standard GitHub-hosted runners are free for public repositories.
     if: github.event.repository.private == false
     runs-on: ubuntu-latest
@@ -35,21 +31,5 @@ jobs:
       - name: Fikstür doğrulama testleri
         run: python -m unittest discover -s tests
 
-      - name: Firebase için kısa ömürlü kimlik al
-        id: google
-        uses: google-github-actions/auth@v3
-        with:
-          project_id: asistan-8a2cf
-          workload_identity_provider: projects/1056417818765/locations/global/workloadIdentityPools/asistan-github/providers/github
-          service_account: asistan-sports-publisher@asistan-8a2cf.iam.gserviceaccount.com
-          token_format: access_token
-          access_token_lifetime: 600s
-          create_credentials_file: false
-
-      - name: Firebase'e fikstürü yayımla
-        env:
-          FIREBASE_PROJECT_ID: asistan-8a2cf
-          FIRESTORE_ACCESS_TOKEN: ${{ steps.google.outputs.access_token }}
-        run: python -m scripts.publish_fixtures
 
 

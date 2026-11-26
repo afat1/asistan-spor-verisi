@@ -1,73 +1,43 @@
-﻿# Asistan Spor Verisi
+# Asistan Firebase spor yayıncısı
 
-25 Kasım 2026: Android artık GitHub veri dosyası okumaz. Merkezi yayın `asistan-8a2cf` Firestore projesindedir. `sports_feed/current_v2` tüm kategoriler için tek uzak fikstürdür; `sports_internal/sources` kaynakların son geçerli verisini tutar. Bir defalık GitHub aktarımının özgün alanları `source_archives` altında korunmuştur. Android paketindeki dosyalar yalnızca çevrimdışı başlangıç içeriğidir.
+26 Kasım 2026: Spor verisinin toplanması ve yayımlanması Firebase sunucusuna taşındı. Uygulamanın çalışması veya veri güncellemesi için GitHub gerekmez. Bu depo yalnız kaynak kodunu, testleri ve sürüm geçmişini tutar. GitHub Actions yalnız test çalıştırır; veri toplamaz, Firebase'e bağlanmaz ve zamanlanmış işi yoktur.
 
-İş akışı yalnızca bu deponun `main` dalına bağlı Workload Identity Federation ile 10 dakikalık erişim belirteci alır. Kalıcı servis hesabı anahtarı kullanılmaz. Özel yayıncı rolü Firestore okuma/ekleme/güncelleme içerir; silme ve proje yönetimi içermez. Proje, sağlayıcı ve servis hesabı adları iş akışındaki herkese açık yapılandırmadır. Fikstür verisi GitHub'a commit edilmez.
+## Çalışan altyapı
 
-Ortak kataloglar `app_content`, ortak küçük görseller `public_media` altında tutulur. Kişisel veri sürümleri `users/{uid}/personal_versions`, etkin sürüm `users/{uid}/state/current` altındadır. Yayıncı kişisel veri üretmez; Android kişisel içeriği doğrulanmış hesabıyla şifreli olarak eşitler.
+- Proje: `asistan-8a2cf`, bölge: `europe-west3`, Python 3.13.
+- Firebase işlevi: `refresh_sports`; tetikleyici: Cloud Scheduler.
+- Zamanlama: `10 */3 * * *`, saat dilimi `Europe/Istanbul` (00:10, 03:10, 06:10, 09:10, 12:10, 15:10, 18:10, 21:10).
+- 512 MiB, 0,3333 CPU, en fazla 1 örnek/1 eşzamanlı istek, en az 0 örnek, 240 saniye zaman aşımı, zamanlayıcı otomatik tekrarı 0.
+- Servis kimliği: `asistan-sports-runtime`; Google tarafından sağlanan çalışma kimliği kullanılır. Kalıcı anahtar veya GitHub erişim belirteci yoktur. İşlev herkese açık çağrıya izin vermez.
+- Eski GitHub WIF sağlayıcısı ve yayıncı servis hesabı kapatıldı; eski yayıncının Firestore proje rolü kaldırıldı.
+- İşlev derleme görüntüleri için 1 günlük Artifact Registry temizleme politikası vardır. Bu politika uygulama verisini silmez.
 
-## Güncel depo temizliği
+## Veri kaynakları
 
-Spor kayıtları, editoryal boks/seçki listeleri ve maclar.txt güncel Git ağacından kaldırılmıştır. Son dosyalar Firebase `source_archives/github_final_events` ve `source_archives/github_final_text` altında geri okunarak doğrulanmıştır. Editoryal kayıtların tek kaynağı `sports_internal/editorial` belgesidir; toplayıcı artık yerel JSON veri dosyası okuyamaz. Eski dosya üreten komut kapatılmıştır. Testler sentetik verilerle çalışır.
+Futbol ve NBA takvimleri Fixtur.es; BSL ve EuroLeague resmî/kamuya açık fikstürler; millî basketbol/voleybol FIBA/TVF duyuruları; Denizli ASKF/TVF/belediye/bilet kaynakları; boks WBC/WBA/WBO ve doğrulanmış organizatör seçkileridir.
 
-Git geçmişi yeniden yazılmadığından önceki commit'ler eski veri dosyalarını içerebilir. Bunlar uygulama veya yayıncı tarafından okunmaz. Geçmişin ve GitHub önbelleklerinin tamamen silinmesi ayrıca ele alınmalıdır.
+UFC doğrudan `https://www.ufc.com/events` ve resmî etkinlik kartlarından okunur. Ana kartın Unix zamanı kullanılır; ana maçın tam adları kart başlığıyla karşılaştırılır. MotoGP doğrudan `https://www.motogp.com/en/calendar/{year}` üzerinden okunur. Genel takvim penceresinin 08:00/18:00 gibi açılış-kapanış saatleri yarış saati sayılmaz; doğrulanmış seans saati yoksa kayıt tarih olarak yayımlanır. F1 Jolpica ve Sportstimes kaynağını kullanır; ücretsiz Jolpica kullanımının ticari olmayan kullanım şartı korunur.
 
-Android yalnız Firebase okur. Otomatik toplayıcı henüz GitHub Actions sunucusunda çalışmaktadır; Firebase Spark zamanlanmış sunucu kodu çalıştırmaz. Bu çalışma için bilgisayara görev kurulmadı. GitHub Actions'ın kaldırılması, sürekli çalışacak başka bir sunucuya geçiş kararı beklemektedir. UFC/MotoGP toplayıcılarının üçüncü taraf GitHub takvim kaynakları da ayrıca değiştirilmelidir; doğrudan Android bağlantısı değildir.
+Kaynak hata verirse son başarılı kayıtları korunur. Geçmiş kaynak/arşiv metinlerinde eski adreslerin bulunması, bunlara yeniden bağlanıldığı anlamına gelmez. Çalışan kaynaklar GitHub/GitHub Pages takvimi kullanmaz.
 
-Android Asistan, fikstürü Firebase Spark planındaki Firestore'dan alır. Bu depo
-toplayıcı kodunu ve tarihsel GitHub fikstürünü içerir. Yeni akış güncel fikstürü
-ve sağlayıcılardan gelen yanıtları açık depoya yazmaz.
+## Firebase belgeleri
 
-## Kaynaklar
+- `sports_feed/current_v2`: Android'in güncel ortak fikstürü.
+- `sports_feed/current`: eski istemci uyum akışı.
+- `sports_internal/sources`: kaynak başına son başarılı veri ve kontrol zamanı.
+- `sports_internal/editorial`: boks doğrulama ve seçki listeleri; depoda veri JSON'u yoktur.
+- `source_archives`: ilk geçişin tarihsel kopyaları; çalışma sırasında Git geçmişi okunmaz.
 
-| Kapsam | Kaynak |
-| --- | --- |
-| Beşiktaş futbol, Türkiye, Türk takımlarının Avrupa maçları ve seçili Şampiyonlar Ligi maçları | Fixtur.es takım ve lig takvimleri, ayrıca Beşiktaş için Türkiye Kupası ve Süper Kupa takvimleri. |
-| Beşiktaş erkek basketbol ve Merkezefendi Basket | Türk Telekom Basketbol'un yayımladığı BSL fikstürü. Saat 00.00 olarak yer alan eşleşmeler geçici program olarak işaretlenir. |
-| Beşiktaş EuroLeague | EuroLeague'in yayımladığı sezon programı. |
-| Öne çıkan NBA maçları | Fixtur.es NBA takvimi. |
-| F1 ve MotoGP | Jolpica F1 ve Nixxo MotoGP takvimi. Jolpica'nın ücretsiz kullanımı ticari olmayan projeler içindir. |
-| UFC | UFC Calendar. Ana maçın iki sporcusu, duyurulan eşleşmeyle doğrulanır. |
-| Denizli futbol | Denizli ASKF Denizlispor A takım fikstürü. Tarihi duyurulan iç saha maçları. |
-| Denizli voleybol | TVF Kadınlar 1. Ligi fikstürü. Denizli Büyükşehir Belediyespor’un Denizli iç saha maçları. |
-| Denizli konser ve kültür | Denizli Büyükşehir Belediyesi ve iTicket. Önümüzdeki 30 gün. |
-| Boks | WBA dünya kemeri ve WBO şampiyonluk takvimleri, organizatörce doğrulanmış WBC ana maçları. |
-| Öne çıkan boks ve Türkiye'deki dövüş geceleri | Organizatör, yerel federasyon ve yetkili bilet sayfasıyla doğrulanan seçki. Kayıtlar data/featured_combat_events.json dosyasında tutulur. |
-| Core CFC ve Vendetta Fight Nights | Türkiye MMA organizasyon listesinde Türkiye konumu ve başlangıcı doğrulanan yeni kayıtlar. |
-| Türkiye A Erkek Millî Basketbol | FIBA 2027 Dünya Kupası Avrupa Elemeleri resmi maç listesi. |
-| Türkiye Kadın A Millî Voleybol | FIVB Dünya Kupası grup duyurusu ve TVF bağlantısı. Duyurulan tarih aralığı turnuva kaydı olarak işlenir. |
+Kişisel veriler bu yayıncı tarafından üretilmez. Android bunları kullanıcı hesabında şifreli sürümlerle ayrı yönetir. Yayıncı rolü proje düzeyinde Firestore okuma/ekleme/güncelleme içerir; koleksiyon bazlı IAM izolasyonu ayrıca değerlendirilmelidir.
 
-Boks akışının yayımlanan görünümünde yalnızca erkek karşılaşması olduğu doğrulanmış kimlikler kullanılır. Kimlikler `data/reviewed_mens_boxing.json` dosyasında tutulur. UFC kayıtları kendi kaynağından alınır.
-
-## Yerel doğrulama
+## Test ve dağıtım
 
 ```text
 python -m unittest discover -s tests
-python -m scripts.publish_fixtures --preview fixtures-preview.json
 ```
 
-Önizleme Firestore'a yazmaz. Python 3.12 önerilir.
+Dağıtım ana Android projesinin `firebase.json` dosyasından, resmî Firebase CLI ile yerel kaynak yüklemesi olarak yapılır. GitHub üzerinden otomatik dağıtım yoktur. Yerel `venv`, `.git`, testler, veri dosyaları ve günlükler Firebase dağıtım paketine dahil edilmez. Eski yerel dosya üreticisi ve GitHub içe aktarma yolu kapatılmıştır.
 
-## Spark üzerinde etkinleştirme
+Bu altyapı Blaze gerektirir; ücretsiz kotalar aşılırsa ücret oluşabilir. Kaynak sınırları ve üç saatlik zamanlama maliyet azaltır, kesin parasal tavan sağlamaz. APK'yı yenilemek kullanıcı kurulumudur; veri güncellemesi Firebase zamanlayıcısından otomatik yapılır.
 
-1. Firebase projesinin **Spark** planında olduğunu doğrulayın. Varsayılan
-   Firestore veritabanını ve Firebase Authentication'da anonim giriş sağlayıcısını
-   etkinleştirin. Cloud Functions veya faturalandırma gerekmez.
-2. Mevcut Firestore kurallarına bu depodaki `/sports_feed/current` ve `/sports_feed/current_v2` erişim kurallarını
-   ekleyin. Projenin diğer koleksiyonlarına ait mevcut kuralları koruyun.
-3. Google Cloud'da bu deponun ana dalıyla sınırlı bir Workload Identity
-   Federation sağlayıcısı ve yalnızca fikstür işi için bir servis hesabı kurun.
-   Hesaba Firestore belge okuma ve yazma yetkisini verin. Kalıcı servis hesabı
-   anahtarı oluşturmak gerekmez.
-4. İş akışında projenin herkese açık WIF yapılandırması hazırdır. `main` dalına
-   yayıncı kodu gönderildiğinde veya **Run workflow** ile çalıştırıldığında iki
-   fikstür belgesinin yazıldığını doğrulayın. Gizli anahtar/depo değişkeni gerekmez.
-
-İş akışı herkese açık depoda standart GitHub çalıştırıcısını kullanır. Varsayılan
-kontrol aralığı üç saattir. Bir kaynak hata verirse onun son başarılı kayıtları
-korunur. Android yenileme düğmesi yayımlanmış son Firestore fikstürünü okur. Eski ve yeni uygulama sürümlerinin belgeleri birlikte güncellenir.
-
-GitHub, 60 gün depo etkinliği olmayan açık depolarda zamanlanmış iş akışlarını
-durdurabilir. Bu durumda Actions sayfasında iş akışını yeniden etkinleştirin ve
-elle bir güncelleme çalıştırın.
-
+Önceki Git commit'lerindeki tarihsel veri dosyaları yeniden yazılmadı. Bunlar uygulama/güncelleyici bağımlılığı değildir; eski geçmişin tamamen silinmesi ayrı bir işlemdir.
